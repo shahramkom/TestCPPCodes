@@ -36,6 +36,7 @@
 *.suo
 *.config
 *.enc
+*.VC.opendb
 
 
 # Executables
