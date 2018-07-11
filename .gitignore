@@ -10,6 +10,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.db
 
 # Compiled Dynamic libraries
 *.so
@@ -25,8 +26,20 @@
 *.la
 *.a
 *.lib
+*.tlog
+*.ipch
+*.db-shm
+*.db-wal
+*.log
+*.idb
+*.ilk
+*.suo
+*.config
+*.enc
+
 
 # Executables
 *.exe
 *.out
 *.app
+*.pdb
