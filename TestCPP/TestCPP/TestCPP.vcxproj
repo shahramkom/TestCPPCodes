@@ -217,6 +217,7 @@
     <ClCompile Include="istream_iterator_ostream_iterator.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Iterator_pattern_of_single_Linked_List.cpp" />
     <ClCompile Include="LambdA.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

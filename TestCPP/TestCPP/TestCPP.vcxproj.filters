@@ -260,5 +260,8 @@
     <ClCompile Include="STL_nth_element.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Iterator_pattern_of_single_Linked_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
