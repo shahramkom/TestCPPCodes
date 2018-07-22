@@ -4,5 +4,11 @@
   <TestDurations>
     <TestDuration Test="TestCaseName.TestName" Duration="1" />
     <TestDuration Test="FirstTest.Sample" Duration="1" />
+    <TestDuration Test="Test_Calculation.Adding" Duration="1" />
+    <TestDuration Test="Test_Calculation.Substracting" Duration="1" />
+    <TestDuration Test="Test_Calculation.Multiplying" Duration="1" />
+    <TestDuration Test="Test_Calculation.Dividing" Duration="1" />
+    <TestDuration Test="Test_IP_HANDLER.CalcSubnetHostCount" Duration="1" />
+    <TestDuration Test="Test_VIRTUAL_IP_HANDLER.getMaxPoolIpRange" Duration="1" />
   </TestDurations>
 </GtaTestDurations>
