@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns">
+      <UniqueIdentifier>{435a9632-b984-469b-a02c-d54a56de309b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns">
+      <UniqueIdentifier>{4c3fcb0d-6e41-481d-8631-91bd139e1a14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns">
+      <UniqueIdentifier>{e282404e-3593-45ce-82aa-f0c99e061936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Abstract Factory">
+      <UniqueIdentifier>{0b7217be-b716-416d-8ab9-83b8a4c81e32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Builder">
+      <UniqueIdentifier>{e68662d8-ef4e-4040-8bcc-f83d30c84cd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Factory Method">
+      <UniqueIdentifier>{ff8e84d2-118e-4375-b7b4-d89d0cabf901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Prototype">
+      <UniqueIdentifier>{f9bdad11-b5f5-40cc-a8e5-9ddce89138b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Singleton">
+      <UniqueIdentifier>{9391e5d3-979b-4135-b7e2-ad2677abe0a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Adapter">
+      <UniqueIdentifier>{451b4a81-3055-4d03-a0b7-6b45049b040c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Bridge">
+      <UniqueIdentifier>{d1c6b9b9-7c19-43c0-96a3-6836d7291098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Composite">
+      <UniqueIdentifier>{2200c85f-5cdf-46e5-8b9b-4de83042b4a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Decorator">
+      <UniqueIdentifier>{2940e3a9-71e0-4a5e-b95e-09e06876dd02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Façade">
+      <UniqueIdentifier>{98852222-8e2c-485e-bede-6ecc20b8d5fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Flyweight">
+      <UniqueIdentifier>{50bd9f85-2296-472d-adfc-cbccb4313286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Proxy">
+      <UniqueIdentifier>{ba472bd3-f255-45dc-af82-0e1bb91286b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Chain of Responsibility">
+      <UniqueIdentifier>{7c8c5c53-6c1d-4588-ad17-56e683af2db9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Command">
+      <UniqueIdentifier>{8591fe3e-0edf-4124-964d-724c600ef6b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Interpreter">
+      <UniqueIdentifier>{408fe1b7-c960-45d2-ad3d-0d1fb3a1e367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Iterator">
+      <UniqueIdentifier>{f7437d17-da39-4ba1-bd50-1b8ed2e249fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Mediator">
+      <UniqueIdentifier>{b7e4b69c-92ad-446b-9aed-c2ca44896909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Memento">
+      <UniqueIdentifier>{da5dab69-7807-4060-b5e8-c4cdc14151b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Observer">
+      <UniqueIdentifier>{c8a52ca0-3ec6-46e2-adbc-e29bda2551b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\State">
+      <UniqueIdentifier>{53f6b727-6045-401a-85ca-d2b1864240a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Strategy">
+      <UniqueIdentifier>{320c4f5d-14c7-40e0-a542-47d85ba3d353}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Template Method">
+      <UniqueIdentifier>{5d247c46-4207-498e-8305-a61f1c71f60e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Visitor">
+      <UniqueIdentifier>{0552145d-1623-4adb-8738-62a765aa197b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Descriptions\AbstractFactory.txt">
+      <Filter>Source Files\Creational Patterns\Abstract Factory</Filter>
+    </Text>
+    <Text Include="Descriptions\Builder.txt">
+      <Filter>Source Files\Creational Patterns\Builder</Filter>
+    </Text>
+    <Text Include="Descriptions\FactoryMethod.txt">
+      <Filter>Source Files\Creational Patterns\Factory Method</Filter>
+    </Text>
+    <Text Include="Descriptions\Singletontxt.txt">
+      <Filter>Source Files\Creational Patterns\Singleton</Filter>
+    </Text>
+    <Text Include="Descriptions\Prototype.txt">
+      <Filter>Source Files\Creational Patterns\Prototype</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

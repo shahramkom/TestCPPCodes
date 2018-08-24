@@ -1,0 +1,3 @@
+A utility class that:
+creates an instance of several families of classes. 
+It can also return a factory for a certain group. 
