@@ -91,6 +91,138 @@
     <Filter Include="Source Files\Behavioral Patterns\Visitor">
       <UniqueIdentifier>{0552145d-1623-4adb-8738-62a765aa197b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Creational Patterns\Abstract Factory\res">
+      <UniqueIdentifier>{2d2b6ad7-765c-4449-8f78-d0aecf03785b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Builder\res">
+      <UniqueIdentifier>{96548d5c-9f33-46fe-acd2-e728aef3a395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Singleton\res">
+      <UniqueIdentifier>{60e9449a-c418-47d6-9bdf-0c010df7da1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Prototype\res">
+      <UniqueIdentifier>{7d243800-9e90-4e86-a1e2-d6361e7b6d4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Abstract Factory\src">
+      <UniqueIdentifier>{2e7dfd62-5fa6-40ab-85e4-5f078abac7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Builder\src">
+      <UniqueIdentifier>{bbb075ee-b150-4611-9618-3da2f436b849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Singleton\src">
+      <UniqueIdentifier>{77eca832-f09c-468f-babc-2cf253de352c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Creational Patterns\Prototype\src">
+      <UniqueIdentifier>{b5b49f63-e986-4afc-88f6-0b26839cc17b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Chain of Responsibility\res">
+      <UniqueIdentifier>{7f431aa8-3950-45df-8e09-e08bcaf2c698}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Chain of Responsibility\src">
+      <UniqueIdentifier>{6a91ccaa-6a7d-4931-8969-9395d1b74fb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Command\src">
+      <UniqueIdentifier>{9b7338d4-1ccf-48de-aa25-260f67ede913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Interpreter\src">
+      <UniqueIdentifier>{819dfacb-29f9-4ace-9386-002b84eafa49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Iterator\src">
+      <UniqueIdentifier>{24e3bcd3-3582-4bb7-9905-b1ccfd9657b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Mediator\src">
+      <UniqueIdentifier>{71ff39b3-93a2-4131-bfaa-28ab8384caf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Memento\src">
+      <UniqueIdentifier>{56034619-eebc-4411-bab3-281abbb729ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Observer\src">
+      <UniqueIdentifier>{85f2765c-50b0-43b4-b872-df8e7e3484fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\State\src">
+      <UniqueIdentifier>{de1ed945-318e-4f4a-b75e-d044095a6158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Strategy\src">
+      <UniqueIdentifier>{74621cc3-ce4c-492b-9ae1-1e5ae10a0cd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Template Method\src">
+      <UniqueIdentifier>{3fcadd76-6351-417a-9ed4-f25d166fdfab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Visitor\src">
+      <UniqueIdentifier>{69e5af31-eed5-4915-8eb9-2b1149d3570e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Command\res">
+      <UniqueIdentifier>{feb4dbf5-c0be-4e6a-88fd-06f8351ba9ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Interpreter\res">
+      <UniqueIdentifier>{46dd7184-d64d-4cb1-89e7-32bf88830fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Iterator\res">
+      <UniqueIdentifier>{f941b9ec-9f50-4711-9277-21166a1db76f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Mediator\res">
+      <UniqueIdentifier>{71966099-1822-4733-9ddc-dd5bb66ee3dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Memento\res">
+      <UniqueIdentifier>{5a40f4e5-91d2-4113-9afe-f17d84c334ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Observer\res">
+      <UniqueIdentifier>{de2d9445-07ae-4420-9af7-8b60cfc08cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\State\res">
+      <UniqueIdentifier>{1cef533a-91b1-4c74-bde7-8b48bab57d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Strategy\res">
+      <UniqueIdentifier>{e824a1e6-bf3a-4160-9c92-13eb6adb4920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Template Method\res">
+      <UniqueIdentifier>{eb1b4699-a545-465a-b5e8-dee84ddd6346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Behavioral Patterns\Visitor\res">
+      <UniqueIdentifier>{5f3b2223-90e5-4082-bc7a-c3962ba719aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Adapter\src">
+      <UniqueIdentifier>{a79aee3a-b850-44b8-ae18-2573af89f2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Bridge\src">
+      <UniqueIdentifier>{ee2bffd9-8b0c-4c2b-af54-c3008abfa2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Composite\src">
+      <UniqueIdentifier>{a0efd530-d83c-4315-90fd-24c03287ccf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Decorator\src">
+      <UniqueIdentifier>{0339d28c-3a4a-4cd1-aafc-ddf44e2f562f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Façade\src">
+      <UniqueIdentifier>{e0bc4be7-6c2c-40fc-af4a-08153b67633c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Flyweight\src">
+      <UniqueIdentifier>{6ba89020-f461-4b10-b375-069d9169ad44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Proxy\src">
+      <UniqueIdentifier>{c9a40957-5b1c-4331-92f1-0084e5dbc318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Adapter\res">
+      <UniqueIdentifier>{69555dd9-c0fd-42fa-9f2a-eb6037240fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Bridge\res">
+      <UniqueIdentifier>{1763dc90-b2ab-48bb-a3ca-9af75b3bbd97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Composite\res">
+      <UniqueIdentifier>{d05a15f8-2def-4085-94d7-fafd9424588f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Decorator\res">
+      <UniqueIdentifier>{8832a48d-d91d-4c8e-b60f-90c282a970e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Façade\res">
+      <UniqueIdentifier>{713dedf4-d185-451f-9f98-77015fc299c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Flyweight\res">
+      <UniqueIdentifier>{ea7319ba-f745-417f-ad1e-f9191c487784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structural Patterns\Proxy\res">
+      <UniqueIdentifier>{cf05c589-d2c0-4afb-a061-0bd005e3d95a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -98,6 +230,12 @@
     </ClInclude>
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Descriptions\aggregate.h">
+      <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
+    </ClInclude>
+    <ClInclude Include="Descriptions\Iterator.h">
+      <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -107,22 +245,189 @@
     <ClCompile Include="DesignPatterns.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Descriptions\AbstractFactory.cpp">
+      <Filter>Source Files\Creational Patterns\Abstract Factory\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\AbstractFactorySample.cpp">
+      <Filter>Source Files\Creational Patterns\Abstract Factory\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\Singleton.cpp">
+      <Filter>Source Files\Creational Patterns\Singleton\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\BuilderSample.cpp">
+      <Filter>Source Files\Creational Patterns\Builder\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\SingletonSample.cpp">
+      <Filter>Source Files\Creational Patterns\Singleton\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\PrototypeSample.cpp">
+      <Filter>Source Files\Creational Patterns\Prototype\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\Iterator.cpp">
+      <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\Chain_ResponsibilitySample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\CommandSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Command\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\InterpreterSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Interpreter\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\IteratorTest.cpp">
+      <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\MediatorSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Mediator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\StateSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\State\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\StrategySample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Strategy\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\ObserverSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Observer\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\MementoSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Memento\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\TemplateMethodSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Template Method\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\VisitorSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Visitor\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\AdapterSample.cpp">
+      <Filter>Source Files\Structural Patterns\Adapter\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\BridgeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Bridge\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\CompositeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Composite\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\DecoratorSample.cpp">
+      <Filter>Source Files\Structural Patterns\Decorator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\FaçadeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Façade\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\FlyweightSample.cpp">
+      <Filter>Source Files\Structural Patterns\Flyweight\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptions\ProxySample.cpp">
+      <Filter>Source Files\Structural Patterns\Proxy\src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Descriptions\AbstractFactory.txt">
-      <Filter>Source Files\Creational Patterns\Abstract Factory</Filter>
-    </Text>
-    <Text Include="Descriptions\Builder.txt">
-      <Filter>Source Files\Creational Patterns\Builder</Filter>
-    </Text>
     <Text Include="Descriptions\FactoryMethod.txt">
       <Filter>Source Files\Creational Patterns\Factory Method</Filter>
     </Text>
+    <Text Include="Descriptions\AbstractFactory.txt">
+      <Filter>Source Files\Creational Patterns\Abstract Factory\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Builder.txt">
+      <Filter>Source Files\Creational Patterns\Builder\res</Filter>
+    </Text>
     <Text Include="Descriptions\Singletontxt.txt">
-      <Filter>Source Files\Creational Patterns\Singleton</Filter>
+      <Filter>Source Files\Creational Patterns\Singleton\res</Filter>
     </Text>
     <Text Include="Descriptions\Prototype.txt">
-      <Filter>Source Files\Creational Patterns\Prototype</Filter>
+      <Filter>Source Files\Creational Patterns\Prototype\res</Filter>
     </Text>
+    <Text Include="Descriptions\Proxy.txt">
+      <Filter>Source Files\Structural Patterns\Proxy\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Flyweight.txt">
+      <Filter>Source Files\Structural Patterns\Flyweight\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Façade.txt">
+      <Filter>Source Files\Structural Patterns\Façade\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Decorator.txt">
+      <Filter>Source Files\Structural Patterns\Decorator\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Composite.txt">
+      <Filter>Source Files\Structural Patterns\Composite\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Bridge.txt">
+      <Filter>Source Files\Structural Patterns\Bridge\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Adapter.txt">
+      <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\Abstract_Factory_design_pattern.png">
+      <Filter>Source Files\Creational Patterns\Abstract Factory\res</Filter>
+    </Image>
+    <Image Include="Images\Builder_design_pattern1.jpg">
+      <Filter>Source Files\Creational Patterns\Builder\res</Filter>
+    </Image>
+    <Image Include="Images\Builder_design_pattern2.jpg">
+      <Filter>Source Files\Creational Patterns\Builder\res</Filter>
+    </Image>
+    <Image Include="Images\Builder_design_pattern3.png">
+      <Filter>Source Files\Creational Patterns\Builder\res</Filter>
+    </Image>
+    <Image Include="Images\Singlton_design_pattern1.jpg">
+      <Filter>Source Files\Creational Patterns\Singleton\res</Filter>
+    </Image>
+    <Image Include="Images\Singlton_design_pattern2.jpg">
+      <Filter>Source Files\Creational Patterns\Singleton\res</Filter>
+    </Image>
+    <Image Include="Images\Prototype_design_pattern1.jpg">
+      <Filter>Source Files\Creational Patterns\Prototype\res</Filter>
+    </Image>
+    <Image Include="Images\Prototype_design_pattern2.png">
+      <Filter>Source Files\Creational Patterns\Prototype\res</Filter>
+    </Image>
+    <Image Include="Images\Adaptor_design_pattern1.jpg">
+      <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
+    </Image>
+    <Image Include="Images\Adaptor_design_pattern2.jpg">
+      <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
+    </Image>
+    <Image Include="Images\Adaptor_design_pattern3.jpg">
+      <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
+    </Image>
+    <Image Include="Images\Bridge_design_pattern1.jpg">
+      <Filter>Source Files\Structural Patterns\Bridge\res</Filter>
+    </Image>
+    <Image Include="Images\Bridge_design_pattern2.jpg">
+      <Filter>Source Files\Structural Patterns\Bridge\res</Filter>
+    </Image>
+    <Image Include="Images\Composite_design_pattern1.png">
+      <Filter>Source Files\Structural Patterns\Composite\res</Filter>
+    </Image>
+    <Image Include="Images\Composite_design_pattern2.png">
+      <Filter>Source Files\Structural Patterns\Composite\res</Filter>
+    </Image>
+    <Image Include="Images\Decorate_design_pattern1.jpg">
+      <Filter>Source Files\Structural Patterns\Decorator\res</Filter>
+    </Image>
+    <Image Include="Images\Decorate_design_pattern2.jpg">
+      <Filter>Source Files\Structural Patterns\Decorator\res</Filter>
+    </Image>
+    <Image Include="Images\Facade_design_pattern1.png">
+      <Filter>Source Files\Structural Patterns\Façade\res</Filter>
+    </Image>
+    <Image Include="Images\Facade_design_pattern2.png">
+      <Filter>Source Files\Structural Patterns\Façade\res</Filter>
+    </Image>
+    <Image Include="Images\Flyweight_design_pattern1.jpg">
+      <Filter>Source Files\Structural Patterns\Flyweight\res</Filter>
+    </Image>
+    <Image Include="Images\Flyweight_design_pattern2.jpg">
+      <Filter>Source Files\Structural Patterns\Flyweight\res</Filter>
+    </Image>
+    <Image Include="Images\Proxy_design_pattern1.jpg">
+      <Filter>Source Files\Structural Patterns\Proxy\res</Filter>
+    </Image>
+    <Image Include="Images\Proxy_design_pattern2.jpg">
+      <Filter>Source Files\Structural Patterns\Proxy\res</Filter>
+    </Image>
   </ItemGroup>
 </Project>

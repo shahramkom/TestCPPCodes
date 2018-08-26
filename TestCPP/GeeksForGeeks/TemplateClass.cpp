@@ -802,17 +802,8 @@ vector<string> split_string(string input_string) {
 	return splits;
 }
 
-using std::optional;
 
 int main()
 {
-	std::string text = "ali pass 123";
-	std::optional<unsigned> opt = firstEvenNumberIn(text);
-	if (opt.has_value())
-	{
-		std::cout << "The first even number is "
-			<< opt.value()
-			<< ".\n";
-	}
 	return 0;
 }

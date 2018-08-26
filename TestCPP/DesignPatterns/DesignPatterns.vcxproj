@@ -90,6 +90,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -147,10 +148,39 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Descriptions\aggregate.h" />
+    <ClInclude Include="Descriptions\Iterator.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Descriptions\AbstractFactory.cpp" />
+    <ClCompile Include="Descriptions\AbstractFactorySample.cpp" />
+    <ClCompile Include="Descriptions\AdapterSample.cpp" />
+    <ClCompile Include="Descriptions\BridgeSample.cpp" />
+    <ClCompile Include="Descriptions\BuilderSample.cpp" />
+    <ClCompile Include="Descriptions\Chain_ResponsibilitySample.cpp" />
+    <ClCompile Include="Descriptions\CommandSample.cpp" />
+    <ClCompile Include="Descriptions\CompositeSample.cpp" />
+    <ClCompile Include="Descriptions\DecoratorSample.cpp" />
+    <ClCompile Include="Descriptions\FaçadeSample.cpp" />
+    <ClCompile Include="Descriptions\FlyweightSample.cpp" />
+    <ClCompile Include="Descriptions\InterpreterSample.cpp" />
+    <ClCompile Include="Descriptions\Iterator.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Descriptions\IteratorTest.cpp" />
+    <ClCompile Include="Descriptions\MediatorSample.cpp" />
+    <ClCompile Include="Descriptions\MementoSample.cpp" />
+    <ClCompile Include="Descriptions\ObserverSample.cpp" />
+    <ClCompile Include="Descriptions\PrototypeSample.cpp" />
+    <ClCompile Include="Descriptions\ProxySample.cpp" />
+    <ClCompile Include="Descriptions\Singleton.cpp" />
+    <ClCompile Include="Descriptions\SingletonSample.cpp" />
+    <ClCompile Include="Descriptions\StateSample.cpp" />
+    <ClCompile Include="Descriptions\StrategySample.cpp" />
+    <ClCompile Include="Descriptions\TemplateMethodSample.cpp" />
+    <ClCompile Include="Descriptions\VisitorSample.cpp" />
     <ClCompile Include="DesignPatterns.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -161,10 +191,42 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Descriptions\AbstractFactory.txt" />
+    <Text Include="Descriptions\Adapter.txt" />
+    <Text Include="Descriptions\Bridge.txt" />
     <Text Include="Descriptions\Builder.txt" />
+    <Text Include="Descriptions\Composite.txt" />
+    <Text Include="Descriptions\Decorator.txt" />
     <Text Include="Descriptions\FactoryMethod.txt" />
+    <Text Include="Descriptions\Façade.txt" />
+    <Text Include="Descriptions\Flyweight.txt" />
     <Text Include="Descriptions\Prototype.txt" />
     <Text Include="Descriptions\Singletontxt.txt" />
+    <Text Include="Descriptions\Proxy.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\Abstract_Factory_design_pattern.png" />
+    <Image Include="Images\Adaptor_design_pattern1.jpg" />
+    <Image Include="Images\Adaptor_design_pattern2.jpg" />
+    <Image Include="Images\Adaptor_design_pattern3.jpg" />
+    <Image Include="Images\Bridge_design_pattern1.jpg" />
+    <Image Include="Images\Bridge_design_pattern2.jpg" />
+    <Image Include="Images\Builder_design_pattern1.jpg" />
+    <Image Include="Images\Builder_design_pattern2.jpg" />
+    <Image Include="Images\Builder_design_pattern3.png" />
+    <Image Include="Images\Composite_design_pattern1.png" />
+    <Image Include="Images\Composite_design_pattern2.png" />
+    <Image Include="Images\Decorate_design_pattern1.jpg" />
+    <Image Include="Images\Decorate_design_pattern2.jpg" />
+    <Image Include="Images\Facade_design_pattern1.png" />
+    <Image Include="Images\Facade_design_pattern2.png" />
+    <Image Include="Images\Flyweight_design_pattern1.jpg" />
+    <Image Include="Images\Flyweight_design_pattern2.jpg" />
+    <Image Include="Images\Prototype_design_pattern1.jpg" />
+    <Image Include="Images\Prototype_design_pattern2.png" />
+    <Image Include="Images\Proxy_design_pattern1.jpg" />
+    <Image Include="Images\Proxy_design_pattern2.jpg" />
+    <Image Include="Images\Singlton_design_pattern1.jpg" />
+    <Image Include="Images\Singlton_design_pattern2.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
