@@ -385,7 +385,7 @@
     <ClCompile Include="strxfrm.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="TemplateClass.cpp" />
+    <ClCompile Include="HackerRankSampleCodes.cpp" />
     <ClCompile Include="TestCPP.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
