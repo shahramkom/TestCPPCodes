@@ -148,39 +148,39 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Descriptions\aggregate.h" />
-    <ClInclude Include="Descriptions\Iterator.h" />
+    <ClInclude Include="Sources\aggregate.h" />
+    <ClInclude Include="Sources\Iterator.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Descriptions\AbstractFactory.cpp" />
-    <ClCompile Include="Descriptions\AbstractFactorySample.cpp" />
-    <ClCompile Include="Descriptions\AdapterSample.cpp" />
-    <ClCompile Include="Descriptions\BridgeSample.cpp" />
-    <ClCompile Include="Descriptions\BuilderSample.cpp" />
-    <ClCompile Include="Descriptions\Chain_ResponsibilitySample.cpp" />
-    <ClCompile Include="Descriptions\CommandSample.cpp" />
-    <ClCompile Include="Descriptions\CompositeSample.cpp" />
-    <ClCompile Include="Descriptions\DecoratorSample.cpp" />
-    <ClCompile Include="Descriptions\FaçadeSample.cpp" />
-    <ClCompile Include="Descriptions\FlyweightSample.cpp" />
-    <ClCompile Include="Descriptions\InterpreterSample.cpp" />
-    <ClCompile Include="Descriptions\Iterator.cpp">
+    <ClCompile Include="Sources\AbstractFactory.cpp" />
+    <ClCompile Include="Sources\AbstractFactorySample.cpp" />
+    <ClCompile Include="Sources\AdapterSample.cpp" />
+    <ClCompile Include="Sources\BridgeSample.cpp" />
+    <ClCompile Include="Sources\BuilderSample.cpp" />
+    <ClCompile Include="Sources\Chain_ResponsibilitySample.cpp" />
+    <ClCompile Include="Sources\CommandSample.cpp" />
+    <ClCompile Include="Sources\CompositeSample.cpp" />
+    <ClCompile Include="Sources\DecoratorSample.cpp" />
+    <ClCompile Include="Sources\FaçadeSample.cpp" />
+    <ClCompile Include="Sources\FlyweightSample.cpp" />
+    <ClCompile Include="Sources\InterpreterSample.cpp" />
+    <ClCompile Include="Sources\Iterator.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Descriptions\IteratorTest.cpp" />
-    <ClCompile Include="Descriptions\MediatorSample.cpp" />
-    <ClCompile Include="Descriptions\MementoSample.cpp" />
-    <ClCompile Include="Descriptions\ObserverSample.cpp" />
-    <ClCompile Include="Descriptions\PrototypeSample.cpp" />
-    <ClCompile Include="Descriptions\ProxySample.cpp" />
-    <ClCompile Include="Descriptions\Singleton.cpp" />
-    <ClCompile Include="Descriptions\SingletonSample.cpp" />
-    <ClCompile Include="Descriptions\StateSample.cpp" />
-    <ClCompile Include="Descriptions\StrategySample.cpp" />
-    <ClCompile Include="Descriptions\TemplateMethodSample.cpp" />
-    <ClCompile Include="Descriptions\VisitorSample.cpp" />
+    <ClCompile Include="Sources\IteratorTest.cpp" />
+    <ClCompile Include="Sources\MediatorSample.cpp" />
+    <ClCompile Include="Sources\MementoSample.cpp" />
+    <ClCompile Include="Sources\ObserverSample.cpp" />
+    <ClCompile Include="Sources\PrototypeSample.cpp" />
+    <ClCompile Include="Sources\ProxySample.cpp" />
+    <ClCompile Include="Sources\Singleton.cpp" />
+    <ClCompile Include="Sources\SingletonSample.cpp" />
+    <ClCompile Include="Sources\StateSample.cpp" />
+    <ClCompile Include="Sources\StrategySample.cpp" />
+    <ClCompile Include="Sources\TemplateMethodSample.cpp" />
+    <ClCompile Include="Sources\VisitorSample.cpp" />
     <ClCompile Include="DesignPatterns.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

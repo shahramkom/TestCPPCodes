@@ -231,10 +231,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Descriptions\aggregate.h">
+    <ClInclude Include="Sources\aggregate.h">
       <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
     </ClInclude>
-    <ClInclude Include="Descriptions\Iterator.h">
+    <ClInclude Include="Sources\Iterator.h">
       <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
     </ClInclude>
   </ItemGroup>
@@ -245,55 +245,55 @@
     <ClCompile Include="DesignPatterns.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\AbstractFactory.cpp">
+    <ClCompile Include="Sources\AbstractFactory.cpp">
       <Filter>Source Files\Creational Patterns\Abstract Factory\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\AbstractFactorySample.cpp">
+    <ClCompile Include="Sources\AbstractFactorySample.cpp">
       <Filter>Source Files\Creational Patterns\Abstract Factory\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\Singleton.cpp">
+    <ClCompile Include="Sources\Singleton.cpp">
       <Filter>Source Files\Creational Patterns\Singleton\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\BuilderSample.cpp">
+    <ClCompile Include="Sources\BuilderSample.cpp">
       <Filter>Source Files\Creational Patterns\Builder\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\SingletonSample.cpp">
+    <ClCompile Include="Sources\SingletonSample.cpp">
       <Filter>Source Files\Creational Patterns\Singleton\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\PrototypeSample.cpp">
+    <ClCompile Include="Sources\PrototypeSample.cpp">
       <Filter>Source Files\Creational Patterns\Prototype\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\Iterator.cpp">
+    <ClCompile Include="Sources\Iterator.cpp">
       <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\Chain_ResponsibilitySample.cpp">
+    <ClCompile Include="Sources\Chain_ResponsibilitySample.cpp">
       <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\CommandSample.cpp">
+    <ClCompile Include="Sources\CommandSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Command\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\InterpreterSample.cpp">
+    <ClCompile Include="Sources\InterpreterSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Interpreter\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\IteratorTest.cpp">
+    <ClCompile Include="Sources\IteratorTest.cpp">
       <Filter>Source Files\Behavioral Patterns\Iterator\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\MediatorSample.cpp">
+    <ClCompile Include="Sources\MediatorSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Mediator\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\StateSample.cpp">
+    <ClCompile Include="Sources\StateSample.cpp">
       <Filter>Source Files\Behavioral Patterns\State\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\StrategySample.cpp">
+    <ClCompile Include="Sources\StrategySample.cpp">
       <Filter>Source Files\Behavioral Patterns\Strategy\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\ObserverSample.cpp">
+    <ClCompile Include="Sources\ObserverSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Observer\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\MementoSample.cpp">
+    <ClCompile Include="Sources\MementoSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Memento\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\TemplateMethodSample.cpp">
+    <ClCompile Include="Sources\TemplateMethodSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Template Method\src</Filter>
     </ClCompile>
     <ClCompile Include="Descriptions\VisitorSample.cpp">
