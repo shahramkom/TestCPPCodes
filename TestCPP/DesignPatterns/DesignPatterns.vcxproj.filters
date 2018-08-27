@@ -358,38 +358,38 @@
     <Text Include="Descriptions\Adapter.txt">
       <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
     </Text>
-    <Text Include="Chain_Responsibility.txt">
+    <Text Include="Descriptions\Chain_Responsibility.txt">
       <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\res</Filter>
     </Text>
-    <Text Include="Command.txt">
+    <Text Include="Descriptions\Command.txt">
       <Filter>Source Files\Behavioral Patterns\Command\res</Filter>
     </Text>
-    <Text Include="Interpreter.txt">
-      <Filter>Source Files\Behavioral Patterns\Interpreter\res</Filter>
+    <Text Include="Descriptions\Visitor.txt">
+      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
     </Text>
-    <Text Include="Iterator.txt">
-      <Filter>Source Files\Behavioral Patterns\Iterator\res</Filter>
-    </Text>
-    <Text Include="Mediator.txt">
-      <Filter>Source Files\Behavioral Patterns\Mediator\res</Filter>
-    </Text>
-    <Text Include="Memento.txt">
-      <Filter>Source Files\Behavioral Patterns\Memento\res</Filter>
-    </Text>
-    <Text Include="Observer.txt">
-      <Filter>Source Files\Behavioral Patterns\Observer\res</Filter>
-    </Text>
-    <Text Include="State.txt">
-      <Filter>Source Files\Behavioral Patterns\State\res</Filter>
-    </Text>
-    <Text Include="Strategy.txt">
-      <Filter>Source Files\Behavioral Patterns\Strategy\res</Filter>
-    </Text>
-    <Text Include="Template_Method.txt">
+    <Text Include="Descriptions\Template_Method.txt">
       <Filter>Source Files\Behavioral Patterns\Template Method\res</Filter>
     </Text>
-    <Text Include="Visitor.txt">
-      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
+    <Text Include="Descriptions\Strategy.txt">
+      <Filter>Source Files\Behavioral Patterns\Strategy\res</Filter>
+    </Text>
+    <Text Include="Descriptions\State.txt">
+      <Filter>Source Files\Behavioral Patterns\State\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Observer.txt">
+      <Filter>Source Files\Behavioral Patterns\Observer\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Memento.txt">
+      <Filter>Source Files\Behavioral Patterns\Memento\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Mediator.txt">
+      <Filter>Source Files\Behavioral Patterns\Mediator\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Iterator.txt">
+      <Filter>Source Files\Behavioral Patterns\Iterator\res</Filter>
+    </Text>
+    <Text Include="Descriptions\Interpreter.txt">
+      <Filter>Source Files\Behavioral Patterns\Interpreter\res</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>

@@ -190,29 +190,29 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Chain_Responsibility.txt" />
-    <Text Include="Command.txt" />
     <Text Include="Descriptions\AbstractFactory.txt" />
     <Text Include="Descriptions\Adapter.txt" />
     <Text Include="Descriptions\Bridge.txt" />
     <Text Include="Descriptions\Builder.txt" />
+    <Text Include="Descriptions\Chain_Responsibility.txt" />
+    <Text Include="Descriptions\Command.txt" />
     <Text Include="Descriptions\Composite.txt" />
     <Text Include="Descriptions\Decorator.txt" />
     <Text Include="Descriptions\FactoryMethod.txt" />
     <Text Include="Descriptions\Façade.txt" />
     <Text Include="Descriptions\Flyweight.txt" />
+    <Text Include="Descriptions\Interpreter.txt" />
+    <Text Include="Descriptions\Iterator.txt" />
+    <Text Include="Descriptions\Mediator.txt" />
+    <Text Include="Descriptions\Memento.txt" />
+    <Text Include="Descriptions\Observer.txt" />
     <Text Include="Descriptions\Prototype.txt" />
     <Text Include="Descriptions\Singletontxt.txt" />
     <Text Include="Descriptions\Proxy.txt" />
-    <Text Include="Interpreter.txt" />
-    <Text Include="Iterator.txt" />
-    <Text Include="Mediator.txt" />
-    <Text Include="Memento.txt" />
-    <Text Include="Observer.txt" />
-    <Text Include="State.txt" />
-    <Text Include="Strategy.txt" />
-    <Text Include="Template_Method.txt" />
-    <Text Include="Visitor.txt" />
+    <Text Include="Descriptions\State.txt" />
+    <Text Include="Descriptions\Strategy.txt" />
+    <Text Include="Descriptions\Template_Method.txt" />
+    <Text Include="Descriptions\Visitor.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Images\Abstract_Factory_design_pattern.png" />
