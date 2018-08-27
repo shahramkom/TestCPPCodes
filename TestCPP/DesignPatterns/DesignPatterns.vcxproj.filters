@@ -358,6 +358,39 @@
     <Text Include="Descriptions\Adapter.txt">
       <Filter>Source Files\Structural Patterns\Adapter\res</Filter>
     </Text>
+    <Text Include="Chain_Responsibility.txt">
+      <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\res</Filter>
+    </Text>
+    <Text Include="Command.txt">
+      <Filter>Source Files\Behavioral Patterns\Command\res</Filter>
+    </Text>
+    <Text Include="Interpreter.txt">
+      <Filter>Source Files\Behavioral Patterns\Interpreter\res</Filter>
+    </Text>
+    <Text Include="Iterator.txt">
+      <Filter>Source Files\Behavioral Patterns\Iterator\res</Filter>
+    </Text>
+    <Text Include="Mediator.txt">
+      <Filter>Source Files\Behavioral Patterns\Mediator\res</Filter>
+    </Text>
+    <Text Include="Memento.txt">
+      <Filter>Source Files\Behavioral Patterns\Memento\res</Filter>
+    </Text>
+    <Text Include="Observer.txt">
+      <Filter>Source Files\Behavioral Patterns\Observer\res</Filter>
+    </Text>
+    <Text Include="State.txt">
+      <Filter>Source Files\Behavioral Patterns\State\res</Filter>
+    </Text>
+    <Text Include="Strategy.txt">
+      <Filter>Source Files\Behavioral Patterns\Strategy\res</Filter>
+    </Text>
+    <Text Include="Template_Method.txt">
+      <Filter>Source Files\Behavioral Patterns\Template Method\res</Filter>
+    </Text>
+    <Text Include="Visitor.txt">
+      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="Images\Abstract_Factory_design_pattern.png">
@@ -428,6 +461,84 @@
     </Image>
     <Image Include="Images\Proxy_design_pattern2.jpg">
       <Filter>Source Files\Structural Patterns\Proxy\res</Filter>
+    </Image>
+    <Image Include="Images\chain_design_pattern1.jpg">
+      <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\res</Filter>
+    </Image>
+    <Image Include="Images\chain_design_pattern2.jpg">
+      <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\res</Filter>
+    </Image>
+    <Image Include="Images\chain_design_pattern3.jpg">
+      <Filter>Source Files\Behavioral Patterns\Chain of Responsibility\res</Filter>
+    </Image>
+    <Image Include="Images\Command_design_pattern1.jpg">
+      <Filter>Source Files\Behavioral Patterns\Command\res</Filter>
+    </Image>
+    <Image Include="Images\Command_design_pattern2.jpg">
+      <Filter>Source Files\Behavioral Patterns\Command\res</Filter>
+    </Image>
+    <Image Include="Images\Command_design_pattern3.jpg">
+      <Filter>Source Files\Behavioral Patterns\Command\res</Filter>
+    </Image>
+    <Image Include="Images\Interpreter_design_pattern1.jpg">
+      <Filter>Source Files\Behavioral Patterns\Interpreter\res</Filter>
+    </Image>
+    <Image Include="Images\Interpreter_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Interpreter\res</Filter>
+    </Image>
+    <Image Include="Images\Iterator_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Iterator\res</Filter>
+    </Image>
+    <Image Include="Images\Iterator_pattern_uml_diagram1.jpg">
+      <Filter>Source Files\Behavioral Patterns\Iterator\res</Filter>
+    </Image>
+    <Image Include="Images\Mediator_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Mediator\res</Filter>
+    </Image>
+    <Image Include="Images\Mediator_design_pattern2.png">
+      <Filter>Source Files\Behavioral Patterns\Mediator\res</Filter>
+    </Image>
+    <Image Include="Images\Memento_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Memento\res</Filter>
+    </Image>
+    <Image Include="Images\Memento_design_pattern2.jpg">
+      <Filter>Source Files\Behavioral Patterns\Memento\res</Filter>
+    </Image>
+    <Image Include="Images\Observer_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Observer\res</Filter>
+    </Image>
+    <Image Include="Images\Observer_design_pattern2.png">
+      <Filter>Source Files\Behavioral Patterns\Observer\res</Filter>
+    </Image>
+    <Image Include="Images\State_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\State\res</Filter>
+    </Image>
+    <Image Include="Images\State_design_pattern2.png">
+      <Filter>Source Files\Behavioral Patterns\State\res</Filter>
+    </Image>
+    <Image Include="Images\Strategy_design_pattern1.jpg">
+      <Filter>Source Files\Behavioral Patterns\Strategy\res</Filter>
+    </Image>
+    <Image Include="Images\Strategy_design_pattern2.gif">
+      <Filter>Source Files\Behavioral Patterns\Strategy\res</Filter>
+    </Image>
+    <Image Include="Images\Template_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Template Method\res</Filter>
+    </Image>
+    <Image Include="Images\Template_design_pattern2.jpg">
+      <Filter>Source Files\Behavioral Patterns\Template Method\res</Filter>
+    </Image>
+    <Image Include="Images\Template_design_pattern3.png">
+      <Filter>Source Files\Behavioral Patterns\Template Method\res</Filter>
+    </Image>
+    <Image Include="Images\Visitor_design_pattern1.png">
+      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
+    </Image>
+    <Image Include="Images\Visitor_design_pattern2.jpg">
+      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
+    </Image>
+    <Image Include="Images\Visitor_design_pattern3.jpg">
+      <Filter>Source Files\Behavioral Patterns\Visitor\res</Filter>
     </Image>
   </ItemGroup>
 </Project>

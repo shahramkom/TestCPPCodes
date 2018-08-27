@@ -190,6 +190,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Text Include="Chain_Responsibility.txt" />
+    <Text Include="Command.txt" />
     <Text Include="Descriptions\AbstractFactory.txt" />
     <Text Include="Descriptions\Adapter.txt" />
     <Text Include="Descriptions\Bridge.txt" />
@@ -202,6 +204,15 @@
     <Text Include="Descriptions\Prototype.txt" />
     <Text Include="Descriptions\Singletontxt.txt" />
     <Text Include="Descriptions\Proxy.txt" />
+    <Text Include="Interpreter.txt" />
+    <Text Include="Iterator.txt" />
+    <Text Include="Mediator.txt" />
+    <Text Include="Memento.txt" />
+    <Text Include="Observer.txt" />
+    <Text Include="State.txt" />
+    <Text Include="Strategy.txt" />
+    <Text Include="Template_Method.txt" />
+    <Text Include="Visitor.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Images\Abstract_Factory_design_pattern.png" />
@@ -213,6 +224,12 @@
     <Image Include="Images\Builder_design_pattern1.jpg" />
     <Image Include="Images\Builder_design_pattern2.jpg" />
     <Image Include="Images\Builder_design_pattern3.png" />
+    <Image Include="Images\chain_design_pattern1.jpg" />
+    <Image Include="Images\chain_design_pattern2.jpg" />
+    <Image Include="Images\chain_design_pattern3.jpg" />
+    <Image Include="Images\Command_design_pattern1.jpg" />
+    <Image Include="Images\Command_design_pattern2.jpg" />
+    <Image Include="Images\Command_design_pattern3.jpg" />
     <Image Include="Images\Composite_design_pattern1.png" />
     <Image Include="Images\Composite_design_pattern2.png" />
     <Image Include="Images\Decorate_design_pattern1.jpg" />
@@ -221,12 +238,32 @@
     <Image Include="Images\Facade_design_pattern2.png" />
     <Image Include="Images\Flyweight_design_pattern1.jpg" />
     <Image Include="Images\Flyweight_design_pattern2.jpg" />
+    <Image Include="Images\Interpreter_design_pattern1.jpg" />
+    <Image Include="Images\Interpreter_design_pattern1.png" />
+    <Image Include="Images\Iterator_design_pattern1.png" />
+    <Image Include="Images\Iterator_pattern_uml_diagram1.jpg" />
+    <Image Include="Images\Mediator_design_pattern1.png" />
+    <Image Include="Images\Mediator_design_pattern2.png" />
+    <Image Include="Images\Memento_design_pattern1.png" />
+    <Image Include="Images\Memento_design_pattern2.jpg" />
+    <Image Include="Images\Observer_design_pattern1.png" />
+    <Image Include="Images\Observer_design_pattern2.png" />
     <Image Include="Images\Prototype_design_pattern1.jpg" />
     <Image Include="Images\Prototype_design_pattern2.png" />
     <Image Include="Images\Proxy_design_pattern1.jpg" />
     <Image Include="Images\Proxy_design_pattern2.jpg" />
     <Image Include="Images\Singlton_design_pattern1.jpg" />
     <Image Include="Images\Singlton_design_pattern2.jpg" />
+    <Image Include="Images\State_design_pattern1.png" />
+    <Image Include="Images\State_design_pattern2.png" />
+    <Image Include="Images\Strategy_design_pattern1.jpg" />
+    <Image Include="Images\Strategy_design_pattern2.gif" />
+    <Image Include="Images\Template_design_pattern1.png" />
+    <Image Include="Images\Template_design_pattern2.jpg" />
+    <Image Include="Images\Template_design_pattern3.png" />
+    <Image Include="Images\Visitor_design_pattern1.png" />
+    <Image Include="Images\Visitor_design_pattern2.jpg" />
+    <Image Include="Images\Visitor_design_pattern3.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
