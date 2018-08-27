@@ -296,29 +296,53 @@
     <ClCompile Include="Sources\TemplateMethodSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Template Method\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\VisitorSample.cpp">
-      <Filter>Source Files\Behavioral Patterns\Visitor\src</Filter>
+    <ClCompile Include="Sources\AdapterSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\AdapterSample.cpp">
-      <Filter>Source Files\Structural Patterns\Adapter\src</Filter>
+    <ClCompile Include="Sources\BridgeSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\BridgeSample.cpp">
-      <Filter>Source Files\Structural Patterns\Bridge\src</Filter>
+    <ClCompile Include="Sources\CompositeSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\CompositeSample.cpp">
-      <Filter>Source Files\Structural Patterns\Composite\src</Filter>
+    <ClCompile Include="Sources\DecoratorSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\DecoratorSample.cpp">
-      <Filter>Source Files\Structural Patterns\Decorator\src</Filter>
+    <ClCompile Include="Sources\FaçadeSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\FaçadeSample.cpp">
-      <Filter>Source Files\Structural Patterns\Façade\src</Filter>
+    <ClCompile Include="Sources\FlyweightSample.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\FlyweightSample.cpp">
+    <ClCompile Include="Sources\ProxySample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\VisitorSample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ProxySample.cpp">
+      <Filter>Source Files\Structural Patterns\Proxy\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\FlyweightSample.cpp">
       <Filter>Source Files\Structural Patterns\Flyweight\src</Filter>
     </ClCompile>
-    <ClCompile Include="Descriptions\ProxySample.cpp">
-      <Filter>Source Files\Structural Patterns\Proxy\src</Filter>
+    <ClCompile Include="Sources\FaçadeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Façade\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DecoratorSample.cpp">
+      <Filter>Source Files\Structural Patterns\Decorator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\CompositeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Composite\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\AdapterSample.cpp">
+      <Filter>Source Files\Structural Patterns\Adapter\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\BridgeSample.cpp">
+      <Filter>Source Files\Structural Patterns\Bridge\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\VisitorSample.cpp">
+      <Filter>Source Files\Behavioral Patterns\Visitor\src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

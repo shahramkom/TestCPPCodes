@@ -164,7 +164,7 @@
     <ClCompile Include="Sources\CompositeSample.cpp" />
     <ClCompile Include="Sources\DecoratorSample.cpp" />
     <ClCompile Include="Sources\FaçadeSample.cpp" />
-    <ClCompile Include="Sources\FlyweightSample.cpp" />
+    <ClCompile Include="Sources\FlyweightSampl.cpp" />
     <ClCompile Include="Sources\InterpreterSample.cpp" />
     <ClCompile Include="Sources\Iterator.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
