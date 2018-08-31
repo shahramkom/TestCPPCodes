@@ -29,7 +29,13 @@
     <ClCompile Include="simplifyCPP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="STL_Optional.cpp">
+    <ClCompile Include="STL_Variant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Generalization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCodes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

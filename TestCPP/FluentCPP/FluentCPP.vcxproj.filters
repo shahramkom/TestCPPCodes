@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Diffrence">
+      <UniqueIdentifier>{f2e14919-4526-43fb-8cfb-50af1319077a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Template">
+      <UniqueIdentifier>{135c8c64-d3b7-478d-93b4-c63edec71b2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -26,8 +32,40 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FluentCPP.cpp">
+    <ClCompile Include="StrongTypesInterfaces.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="STL_Optional.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SetDiffrence.cpp">
+      <Filter>Source Files\Diffrence</Filter>
+    </ClCompile>
+    <ClCompile Include="Searching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SomeAlgorithms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateClasses_1.cpp">
+      <Filter>Source Files\Template</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\includes.png">
+      <Filter>Source Files\Diffrence</Filter>
+    </Image>
+    <Image Include="res\set_intersection.png">
+      <Filter>Source Files\Diffrence</Filter>
+    </Image>
+    <Image Include="res\set_symmetric_difference.png">
+      <Filter>Source Files\Diffrence</Filter>
+    </Image>
+    <Image Include="res\set_union.png">
+      <Filter>Source Files\Diffrence</Filter>
+    </Image>
+    <Image Include="res\set_difference.png">
+      <Filter>Source Files\Diffrence</Filter>
+    </Image>
   </ItemGroup>
 </Project>

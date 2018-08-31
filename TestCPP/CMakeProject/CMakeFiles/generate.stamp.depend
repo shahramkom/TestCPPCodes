@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+G:/__Learning/_New ViSion/Language/GitHubRepository/TestCPPCodes/TestCPP/CMakeProject/CMakeLists.txt
+G:/__Learning/_New ViSion/Language/GitHubRepository/TestCPPCodes/TestCPP/CMakeProject/CMakeFiles/3.8.0-rc1/CMakeSystem.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeSystemSpecificInitialize.cmake
+G:/__Learning/_New ViSion/Language/GitHubRepository/TestCPPCodes/TestCPP/CMakeProject/CMakeFiles/3.8.0-rc1/CMakeCCompiler.cmake
+G:/__Learning/_New ViSion/Language/GitHubRepository/TestCPPCodes/TestCPP/CMakeProject/CMakeFiles/3.8.0-rc1/CMakeCXXCompiler.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeSystemSpecificInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeGenericSystem.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/Windows.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/WindowsPaths.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeCInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/Windows-MSVC-C.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+G:/__Learning/_New ViSion/Language/GitHubRepository/TestCPPCodes/TestCPP/CMakeProject/CMakeFiles/3.8.0-rc1/CMakeRCCompiler.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeRCInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeCXXInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Compiler/MSVC-CXX.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/Windows-MSVC-CXX.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+F:/Needed Development Software/cmake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
