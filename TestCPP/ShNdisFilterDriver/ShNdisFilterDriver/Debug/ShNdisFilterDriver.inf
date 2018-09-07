@@ -12,7 +12,7 @@ Class           = NetService
 ClassGUID       = {4D36E974-E325-11CE-BFC1-08002BE10318}
 ; TODO: Customize this string for your company name
 Provider        = %Msft%
-DriverVer = 09/07/2018,0.42.59.248
+DriverVer = 09/07/2018,12.26.14.346
 CatalogFile     = ShNdisFilterDriver.cat
 
 
