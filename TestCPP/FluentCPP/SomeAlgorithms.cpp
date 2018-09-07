@@ -1,6 +1,6 @@
 #include <stdafx.h>
 
-//Implemant class that support begin , end , ...
+//Implement class that support begin , end , ...
 class Flow
 {
 public:

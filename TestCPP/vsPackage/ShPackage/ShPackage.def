@@ -1,0 +1,7 @@
+﻿; ShPackage.def : Declares the module parameters.
+
+LIBRARY      "ShPackage.DLL"
+
+EXPORTS
+	DllCanUnloadNow            PRIVATE
+	DllGetClassObject          PRIVATE

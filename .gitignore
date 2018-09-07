@@ -45,3 +45,5 @@
 *.out
 *.app
 *.pdb
+/TestCPP/Debug
+/TestCPP/.vs/TestCPP/v15/Server/sqlite3
