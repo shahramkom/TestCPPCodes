@@ -4,11 +4,11 @@
 
 [Version]
 Signature="$WINDOWS NT$"
-Class=Sample ; TODO: edit Class
-ClassGuid={78A1C341-4539-11d3-B88D-00C04FAD5171} ; TODO: edit ClassGuid
+Class=ShKernelDriver 
+ClassGuid={78A1C341-4539-11d3-B88D-10C04FAD5172} 
 Provider=%ManufacturerName%
 CatalogFile=ShKernelDriver.cat
-DriverVer= ; TODO: set DriverVer in stampinf property pages
+DriverVer= 1.0.0.217
 
 [DestinationDirs]
 DefaultDestDir = 12
@@ -79,8 +79,8 @@ KmdfLibraryVersion = $KMDFVERSION$
 
 [Strings]
 SPSVCINST_ASSOCSERVICE= 0x00000002
-ManufacturerName="<Your manufacturer name>" ;TODO: Replace with your manufacturer name
-ClassName="Samples" ; TODO: edit ClassName
+ManufacturerName="ShDriverCompany" 
+ClassName="ShKernelDriver" 
 DiskName = "ShKernelDriver Installation Disk"
 ShKernelDriver.DeviceDesc = "ShKernelDriver Device"
 ShKernelDriver.SVCDESC = "ShKernelDriver Service"

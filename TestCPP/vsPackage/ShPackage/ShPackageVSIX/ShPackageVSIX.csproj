@@ -60,7 +60,7 @@
     </ProjectReference>
     <ProjectReference Include="..\..\ShPackageUi\ShPackageUi.vcxproj">
       <Project>{9d360e3e-0d0e-4191-b924-0f01325e93fa}</Project>
-      <Name>ShPackageUi</Name>
+      <Name>ShPackageUI</Name>
       <VSIXSubPath>1033</VSIXSubPath>
       <IncludeOutputGroupsInVSIX>
         BuiltProjectOutputGroup;
