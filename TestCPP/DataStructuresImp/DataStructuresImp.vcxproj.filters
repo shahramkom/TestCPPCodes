@@ -18,6 +18,36 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ArrayDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StackDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchTreeDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashingDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

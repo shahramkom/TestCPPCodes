@@ -151,7 +151,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ArrayDS.h" />
+    <ClInclude Include="BinarySearchTreeDS.h" />
+    <ClInclude Include="BinaryTreeDS.h" />
+    <ClInclude Include="GraphDS.h" />
+    <ClInclude Include="HashingDS.h" />
+    <ClInclude Include="HeapDS.h" />
+    <ClInclude Include="LinkedListDS.h" />
+    <ClInclude Include="MatrixDS.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="QueueDS.h" />
+    <ClInclude Include="StackDS.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataStructuresImp.cpp" />
