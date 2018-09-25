@@ -1,0 +1,13 @@
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\bin\Debug\netstandard1.3\tools\install.ps1
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\bin\Debug\netstandard1.3\Analyzer.deps.json
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\bin\Debug\netstandard1.3\Analyzer.dll
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\bin\Debug\netstandard1.3\Analyzer.pdb
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.csprojAssemblyReference.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.Resources.resources
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.csproj.GenerateResource.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.csproj.CoreCompileInputs.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.AssemblyInfoInputs.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.AssemblyInfo.cs
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.dll
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\Analyzer\Analyzer\obj\Debug\netstandard1.3\Analyzer.pdb

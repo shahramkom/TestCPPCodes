@@ -1,0 +1,12 @@
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\bin\Debug\CodeRefactoring.vsix
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\bin\Debug\extension.vsixmanifest
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\bin\Debug\CodeRefactoring.dll
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\bin\Debug\CodeRefactoring.pdb
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\CodeRefactoring.Vsix.csprojAssemblyReference.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\CodeRefactoring.Vsix.csproj.CoreCompileInputs.cache
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\CodeRefactoring.Vsix.csproj.CopyComplete
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\CodeRefactoring.dll
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\CodeRefactoring.pdb
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\extension.vsixmanifest
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\files.json
+G:\__Learning\_New ViSion\Language\GitHubRepository\Learning\Learning\CodeRefactoring\CodeRefactoring.Vsix\obj\Debug\createTemplateManifests.cache
