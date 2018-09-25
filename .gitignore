@@ -47,3 +47,6 @@
 *.pdb
 /TestCPP/Debug
 /TestCPP/.vs/TestCPP/v15/Server/sqlite3
+/Learning/.vs/Learning/v15/Server/sqlite3
+/Learning/Debug
+/Learning/XamarinIOS/obj
