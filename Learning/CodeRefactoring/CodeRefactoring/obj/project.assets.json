@@ -5303,11 +5303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\CodeRefactoring.csproj",
+      "projectUniqueName": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\CodeRefactoring.csproj",
       "projectName": "CodeRefactoring",
-      "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\CodeRefactoring.csproj",
+      "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\CodeRefactoring.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\obj\\",
+      "outputPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeRefactoring\\CodeRefactoring\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

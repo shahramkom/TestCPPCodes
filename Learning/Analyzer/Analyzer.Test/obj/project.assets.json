@@ -7947,11 +7947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\Analyzer.Test.csproj",
+      "projectUniqueName": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\Analyzer.Test.csproj",
       "projectName": "Analyzer.Test",
-      "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\Analyzer.Test.csproj",
+      "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\Analyzer.Test.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\obj\\",
+      "outputPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7971,8 +7971,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj": {
-              "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj"
+            "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj": {
+              "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj"
             }
           }
         }

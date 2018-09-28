@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\XamarinAndroid.csproj",
+      "projectUniqueName": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\XamarinAndroid.csproj",
       "projectName": "XamarinAndroid",
-      "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\XamarinAndroid.csproj",
+      "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\XamarinAndroid.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\obj\\",
+      "outputPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\XamarinAndroid\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

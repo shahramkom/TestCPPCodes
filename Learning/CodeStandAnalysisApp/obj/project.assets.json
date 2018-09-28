@@ -4902,11 +4902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\CodeStandAnalysisApp.csproj",
+      "projectUniqueName": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\CodeStandAnalysisApp.csproj",
       "projectName": "CodeStandAnalysisApp",
-      "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\CodeStandAnalysisApp.csproj",
+      "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\CodeStandAnalysisApp.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\obj\\",
+      "outputPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\CodeStandAnalysisApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

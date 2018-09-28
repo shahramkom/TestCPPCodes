@@ -5303,11 +5303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj",
+      "projectUniqueName": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj",
       "projectName": "Analyzer",
-      "projectPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj",
+      "projectPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\Analyzer.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "G:\\__Learning\\_New ViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\obj\\",
+      "outputPath": "G:\\__Learning\\_NewViSion\\Language\\GitHubRepository\\Learning\\Learning\\Analyzer\\Analyzer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
