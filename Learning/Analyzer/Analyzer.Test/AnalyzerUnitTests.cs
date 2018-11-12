@@ -37,6 +37,8 @@ namespace Analyzer.Test
     {
         class TypeName
         {   
+            TypeName();
+            ~TypeName();
         }
     }";
             var expected = new DiagnosticResult

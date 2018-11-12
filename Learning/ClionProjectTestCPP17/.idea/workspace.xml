@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="test17" targetName="test17" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4ce9194-95c7-42fa-a897-f9b5a34709ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/AnalyzerUnitTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/AnalyzerUnitTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/Debug/netcoreapp2.0/Analyzer.Test.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/bin/Debug/Analyzer.vsix" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/bin/Debug/Analyzer.vsix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/obj/Debug/Analyzer.Vsix.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/obj/Debug/Analyzer.Vsix.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/obj/Debug/files.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer.Vsix/obj/Debug/files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/bin/Debug/Analyzer.1.0.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/bin/Debug/Analyzer.1.0.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/Analyzer.1.0.0.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/Analyzer.1.0.0.nuspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/Debug/netstandard1.3/Analyzer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/Analyzer/Analyzer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/bin/Debug/CodeRefactoring.vsix" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/bin/Debug/CodeRefactoring.vsix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/CodeRefactoring.Vsix.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/CodeRefactoring.Vsix.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/CodeRefactoring.Vsix.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/CodeRefactoring.Vsix.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/files.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring.Vsix/obj/Debug/files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/CodeRefactoringCodeRefactoringProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/CodeRefactoringCodeRefactoringProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/Debug/netstandard1.3/CodeRefactoring.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeRefactoring/CodeRefactoring/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/Debug/net461/CodeStandAnalysisApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/Debug/net461/CodeStandAnalysisApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/Debug/net461/CodeStandAnalysisApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/Debug/net461/CodeStandAnalysisApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/CodeStandAnalysisApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/GeeksForGeeks/GeeksForGeeks.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/GeeksForGeeks/GeeksForGeeks.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/GeeksForGeeks/TestCPP.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/GeeksForGeeks/TestCPP.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/XamarinAndroid.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/XamarinAndroid.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/build.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/build.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/designtime/Resource.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/designtime/Resource.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/libraryprojectimports.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/XamarinAndroid/obj/Debug/MonoAndroid81/libraryprojectimports.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/simplifyCPP/simplifyCPP.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/simplifyCPP/simplifyCPP.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning/vsPackage/ShPackage/ShPackageVSIX/obj/Debug/ShPackageVSIX.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/vsPackage/ShPackage/ShPackageVSIX/obj/Debug/ShPackageVSIX.csproj.FileListAbsolute.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="KRConfigLog/dbo/VPNDataBase/3d9d38d3-583c-4b11-a2af-461460324aa7:TABLE" value="Green" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-664343757">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="9791" />
+          <entry key="h" value="367" />
+          <entry key="mm" value="7" />
+          <entry key="sql" value="62" />
+          <entry key="txt" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Doxygen file" value="8" />
+          <entry key="ObjectiveC" value="10157" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Scratch" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Build All (disassembly)" value="4" />
+          <entry key="cpp" value="18" />
+          <entry key="functional" value="2" />
+          <entry key="h" value="21" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Disassembly" value="4" />
+          <entry key="ObjectiveC" value="41" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+    </session>
+    <session id="-1312925684">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceFiles/TemplateExample.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2486">
+              <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
+              <folding>
+                <element signature="e#44#62#0" expanded="true" />
+                <element signature="e#173#194#0" expanded="true" />
+                <element signature="e#361#371#0" expanded="true" />
+                <element signature="e#615#652#0" expanded="true" />
+                <element signature="e#824#844#0" expanded="true" />
+                <element signature="e#824#826#0" expanded="true" />
+                <element signature="e#824#860#0" expanded="true" />
+                <element signature="e#1031#1060#0" expanded="true" />
+                <element signature="e#1091#1127#0" expanded="true" />
+                <element signature="e#1398#1446#0" expanded="true" />
+                <element signature="e#1563#1594#0" expanded="true" />
+                <element signature="e#1851#1880#0" expanded="true" />
+                <element signature="e#1924#1988#0" expanded="true" />
+                <element signature="e#1851#1870#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SourceFiles/TestClass.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="173" column="10" selection-start-line="173" selection-start-column="10" selection-end-line="173" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceFiles/ChangeAlgorithms.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2684">
+              <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+              <folding>
+                <element signature="e#43#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HeaderFiles/TemplateExample.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Pass values between threads</find>
+      <find>person</find>
+      <find>my template person address</find>
+      <find>nm of persons:</find>
+      <find>height</find>
+      <find>getData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestClass.h" />
+        <option value="$PROJECT_DIR$/RangeBasedAlgorithms.cpp" />
+        <option value="$PROJECT_DIR$/Observer.h" />
+        <option value="$PROJECT_DIR$/ClassTemplateSFINAE.h" />
+        <option value="$PROJECT_DIR$/Includes.h" />
+        <option value="$PROJECT_DIR$/ExecteTaskAsychronously.h" />
+        <option value="$PROJECT_DIR$/TestClass.cpp" />
+        <option value="$PROJECT_DIR$/ExecteTaskAsychronously.cpp" />
+        <option value="$PROJECT_DIR$/PassValuesBetweenThreads.cpp" />
+        <option value="$PROJECT_DIR$/PassValuesBetweenThreads.h" />
+        <option value="$PROJECT_DIR$/RangeBasedAlgorithms.h" />
+        <option value="$PROJECT_DIR$/ApplyTupleFunction.h" />
+        <option value="$PROJECT_DIR$/ApplyTupleFunction.cpp" />
+        <option value="$PROJECT_DIR$/SourceFiles/ApplyTupleFunction.cpp" />
+        <option value="$PROJECT_DIR$/SourceFiles/Observer.cpp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3d9d38d3-583c-4b11-a2af-461460324aa7/console.sql" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/HeaderFiles/TestClass.h" />
+        <option value="$PROJECT_DIR$/HeaderFiles/Lambda.h" />
+        <option value="$PROJECT_DIR$/HeaderFiles/Includes.h" />
+        <option value="$PROJECT_DIR$/SourceFiles/Lambda.cpp" />
+        <option value="$PROJECT_DIR$/SourceFiles/ChangeAlgorithms.h" />
+        <option value="$PROJECT_DIR$/HeaderFiles/CustomAllocator.h" />
+        <option value="$PROJECT_DIR$/SourceFiles/CustomAllocator.cpp" />
+        <option value="$PROJECT_DIR$/HeaderFiles/ChangeAlgorithms.h" />
+        <option value="$PROJECT_DIR$/SourceFiles/ChangeAlgorithms.cpp" />
+        <option value="$PROJECT_DIR$/HeaderFiles/TemplateExample.h" />
+        <option value="$PROJECT_DIR$/SourceFiles/TemplateExample.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/SourceFiles/TestClass.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
+              <item name="HeaderFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahram\CLionProjects\test17\HeaderFiles" />
+      <recent name="C:\Users\Shahram\CLionProjects\test17\SourceFiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test17" TARGET_NAME="test17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test17" RUN_TARGET_NAME="test17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ce9194-95c7-42fa-a897-f9b5a34709ad" name="Default Changelist" comment="" />
+      <created>1541616093815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541616093815</updated>
+      <workItem from="1541616097102" duration="3049000" />
+      <workItem from="1541620506918" duration="4272000" />
+      <workItem from="1541625244730" duration="13716000" />
+      <workItem from="1541708259865" duration="13890000" />
+      <workItem from="1541775809002" duration="3978000" />
+      <workItem from="1541857627171" duration="20984000" />
+      <workItem from="1542038345435" duration="599000" />
+      <workItem from="1542039788844" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60705000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="817" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14630872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32748538" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32456142" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SourceFiles/RangeBasedAlgorithms.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/ExecteTaskAsychronously.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/ExecteTaskAsychronously.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/ClassTemplateSFINAE.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/Observer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/PassValuesBetweenThreads.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/PassValuesBetweenThreads.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/ApplyTupleFunction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/Observer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/ApplyTupleFunction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/RangeBasedAlgorithms.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/unique_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/functional">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56775">
+          <caret line="2271" selection-start-line="2271" selection-end-line="2271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d9d38d3-583c-4b11-a2af-461460324aa7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/Includes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/TestClass.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/Lambda.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/Lambda.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/CustomAllocator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/CustomAllocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/ChangeAlgorithms.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/stl_algobase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="383" column="5" lean-forward="true" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/TemplateExample.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+            <element signature="e#173#194#0" expanded="true" />
+            <element signature="e#361#371#0" expanded="true" />
+            <element signature="e#615#652#0" expanded="true" />
+            <element signature="e#824#844#0" expanded="true" />
+            <element signature="e#824#826#0" expanded="true" />
+            <element signature="e#824#860#0" expanded="true" />
+            <element signature="e#1031#1060#0" expanded="true" />
+            <element signature="e#1091#1127#0" expanded="true" />
+            <element signature="e#1398#1446#0" expanded="true" />
+            <element signature="e#1563#1594#0" expanded="true" />
+            <element signature="e#1851#1880#0" expanded="true" />
+            <element signature="e#1924#1988#0" expanded="true" />
+            <element signature="e#1851#1870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/ChangeAlgorithms.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+          <folding>
+            <element signature="e#43#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeaderFiles/TemplateExample.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceFiles/TestClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="173" column="10" selection-start-line="173" selection-start-column="10" selection-end-line="173" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -17,8 +17,22 @@
     <Jar>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\8\jl\bin\classes.jar</Jar>
     <Jar>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\11\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\13\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\14\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\13.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\XamarinAndroid\obj\Debug\MonoAndroid81\lp\14.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

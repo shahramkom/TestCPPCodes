@@ -26,7 +26,7 @@ namespace CodeRefactoring
             var node = root.FindNode(context.Span);
 
             // Only offer a refactoring if the selected node is a type declaration node.
-            var typeDecl = node as TypeDeclarationSyntax;
+            TypeDeclarationSyntax typeDecl = node as TypeDeclarationSyntax;
             if (typeDecl == null)
             {
                 return;
