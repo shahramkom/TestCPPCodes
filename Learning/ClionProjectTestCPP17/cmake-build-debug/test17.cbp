@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
+				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test17">
-				<Option output="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/test17.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
+				<Option output="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/test17.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="D:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 test17"/>
-					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 test17"/>
+					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test17/fast">
-				<Option output="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/test17.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
+				<Option output="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/test17.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,103 +55,106 @@
 					<Add directory="D:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 test17/fast"/>
-					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 test17/fast"/>
+					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
+				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
+				<Option working_dir="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/ApplyTupleFunction.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/ApplyTupleFunction.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/ChangeAlgorithms.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/ChangeAlgorithms.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/ClassTemplateSFINAE.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/ClassTemplateSFINAE.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/CustomAllocator.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/CustomAllocator.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/ExecteTaskAsychronously.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/ExecteTaskAsychronously.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/Includes.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/INVOKE.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/Lambda.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/Includes.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/Observer.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/Lambda.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/PassValuesBetweenThreads.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/Observer.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/RangeBasedAlgorithms.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/PassValuesBetweenThreads.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/TemplateExample.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/RangeBasedAlgorithms.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/HeaderFiles/TestClass.h">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/TemplateExample.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/ApplyTupleFunction.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/HeaderFiles/TestClass.h">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/ChangeAlgorithms.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/ApplyTupleFunction.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/CustomAllocator.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/ChangeAlgorithms.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/ExecteTaskAsychronously.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/CustomAllocator.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/Lambda.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/ExecteTaskAsychronously.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/Observer.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/Lambda.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/PassValuesBetweenThreads.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/Observer.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/RangeBasedAlgorithms.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/PassValuesBetweenThreads.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/TemplateExample.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/RangeBasedAlgorithms.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/SourceFiles/TestClass.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/TemplateExample.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/main.cpp">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/SourceFiles/TestClass.cpp">
 			<Option target="test17"/>
 		</Unit>
-		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/CMakeLists.txt">
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/main.cpp">
+			<Option target="test17"/>
+		</Unit>
+		<Unit filename="G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

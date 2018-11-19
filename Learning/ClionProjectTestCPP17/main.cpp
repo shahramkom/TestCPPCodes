@@ -1,7 +1,3 @@
-#include <memory>
-
-#include <memory>
-
 #include <iostream>
 #include <memory>
 #include <vector>
@@ -38,6 +34,7 @@ int main() {
     customAllocator = std::make_unique<CustomAllocator>();
     templateExample = std::make_unique<TemplateExample>();
 
+    testClass->readInput();
     testClass->SortRange();
     testClass->useOptional();
     testClass->separatedCommands();

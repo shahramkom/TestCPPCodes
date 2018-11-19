@@ -8,6 +8,7 @@
 class TestClass {
 public:
     TestClass();
+    void readInput();
     void SortRange();
     void useOptional();
     void separatedCommands();

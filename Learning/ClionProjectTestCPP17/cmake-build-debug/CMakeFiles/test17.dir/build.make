@@ -42,10 +42,10 @@ RM = "D:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17
+CMAKE_SOURCE_DIR = G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug
+CMAKE_BINARY_DIR = G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/test17.dir/depend.make
@@ -58,146 +58,146 @@ include CMakeFiles/test17.dir/flags.make
 
 CMakeFiles/test17.dir/main.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test17.dir/main.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\main.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test17.dir/main.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\main.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\main.cpp
 
 CMakeFiles/test17.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/main.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\main.cpp > CMakeFiles\test17.dir\main.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\main.cpp > CMakeFiles\test17.dir\main.cpp.i
 
 CMakeFiles/test17.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/main.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\main.cpp -o CMakeFiles\test17.dir\main.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\main.cpp -o CMakeFiles\test17.dir\main.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.obj: ../SourceFiles/TestClass.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp
 
 CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp > CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp > CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/TestClass.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp -o CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TestClass.cpp -o CMakeFiles\test17.dir\SourceFiles\TestClass.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.obj: ../SourceFiles/ApplyTupleFunction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp
 
 CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp > CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp > CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/ApplyTupleFunction.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp -o CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ApplyTupleFunction.cpp -o CMakeFiles\test17.dir\SourceFiles\ApplyTupleFunction.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.obj: ../SourceFiles/PassValuesBetweenThreads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp
 
 CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp > CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp > CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/PassValuesBetweenThreads.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp -o CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\PassValuesBetweenThreads.cpp -o CMakeFiles\test17.dir\SourceFiles\PassValuesBetweenThreads.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.obj: ../SourceFiles/RangeBasedAlgorithms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp
 
 CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp > CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp > CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/RangeBasedAlgorithms.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp -o CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\RangeBasedAlgorithms.cpp -o CMakeFiles\test17.dir\SourceFiles\RangeBasedAlgorithms.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/Observer.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/Observer.cpp.obj: ../SourceFiles/Observer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/test17.dir/SourceFiles/Observer.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\Observer.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/test17.dir/SourceFiles/Observer.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\Observer.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp
 
 CMakeFiles/test17.dir/SourceFiles/Observer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/Observer.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp > CMakeFiles\test17.dir\SourceFiles\Observer.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp > CMakeFiles\test17.dir\SourceFiles\Observer.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/Observer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/Observer.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp -o CMakeFiles\test17.dir\SourceFiles\Observer.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Observer.cpp -o CMakeFiles\test17.dir\SourceFiles\Observer.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.obj: ../SourceFiles/ExecteTaskAsychronously.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp
 
 CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp > CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp > CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/ExecteTaskAsychronously.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp -o CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ExecteTaskAsychronously.cpp -o CMakeFiles\test17.dir\SourceFiles\ExecteTaskAsychronously.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.obj: ../SourceFiles/Lambda.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp
 
 CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp > CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp > CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/Lambda.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp -o CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\Lambda.cpp -o CMakeFiles\test17.dir\SourceFiles\Lambda.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.obj: ../SourceFiles/ChangeAlgorithms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp
 
 CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp > CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp > CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/ChangeAlgorithms.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp -o CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\ChangeAlgorithms.cpp -o CMakeFiles\test17.dir\SourceFiles\ChangeAlgorithms.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.obj: ../SourceFiles/CustomAllocator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp
 
 CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp > CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp > CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/CustomAllocator.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp -o CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\CustomAllocator.cpp -o CMakeFiles\test17.dir\SourceFiles\CustomAllocator.cpp.s
 
 CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.obj: CMakeFiles/test17.dir/flags.make
 CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.obj: ../SourceFiles/TemplateExample.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.obj"
-	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.obj"
+	D:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.obj -c G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp
 
 CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.i"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp > CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.i
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp > CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.i
 
 CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test17.dir/SourceFiles/TemplateExample.cpp.s"
-	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp -o CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.s
+	D:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\SourceFiles\TemplateExample.cpp -o CMakeFiles\test17.dir\SourceFiles\TemplateExample.cpp.s
 
 # Object files for target test17
 test17_OBJECTS = \
@@ -231,7 +231,7 @@ test17.exe: CMakeFiles/test17.dir/build.make
 test17.exe: CMakeFiles/test17.dir/linklibs.rsp
 test17.exe: CMakeFiles/test17.dir/objects1.rsp
 test17.exe: CMakeFiles/test17.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable test17.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable test17.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\test17.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -244,6 +244,6 @@ CMakeFiles/test17.dir/clean:
 .PHONY : CMakeFiles/test17.dir/clean
 
 CMakeFiles/test17.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17 G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17 G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles\test17.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17 G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17 G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\ClionProjectTestCPP17\cmake-build-debug\CMakeFiles\test17.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/test17.dir/depend
 

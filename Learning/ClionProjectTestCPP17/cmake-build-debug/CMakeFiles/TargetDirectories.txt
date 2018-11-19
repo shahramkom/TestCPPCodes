@@ -1,3 +1,3 @@
-G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/test17.dir
-G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/test17.dir
+G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/__Learning/_NewViSion/Language/GitHubRepository/Learning/Learning/ClionProjectTestCPP17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
