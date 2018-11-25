@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<Project DefaultTargets="HelloWorld">
+	<Target Name = "Goodbye">
+		<Message Text="good bye World!" Importance="Normal"/>
+	</Target>
+
+	<Target Name = "HelloWorld" >
+		<Message Text="Hello,World!" Importance="High"/>
+	</Target>
+
+</Project>
