@@ -158,7 +158,6 @@ namespace KennyKerr
         SRWLOCK m_lock;
 
     public:
-
         slim_lock(slim_lock const &) = delete;
         slim_lock(slim_lock &&) = delete;
         auto operator=(slim_lock const &) -> slim_lock & = delete;
@@ -193,17 +192,17 @@ namespace KennyKerr
             ReleaseSRWLockShared(&m_lock);
         }
 
-        auto get_exclusive() throw() -> auto_lock<slim_lock>
-        {
-            enter();
-            return auto_lock<slim_lock>(*this, &slim_lock::exit);
-        }
+        //auto get_exclusive() throw() -> auto_lock<slim_lock>
+        //{
+        //    enter();
+        //    return auto_lock<slim_lock>(*this, &slim_lock::exit);
+        //}
 
-        auto get_shared() throw() -> auto_lock<slim_lock>
-        {
-            enter_shared();
-            return auto_lock<slim_lock>(*this, &slim_lock::exit_shared);
-        }
+        //auto get_shared() throw() -> auto_lock<slim_lock>
+        //{
+        //    enter_shared();
+        //    return auto_lock<slim_lock>(*this, &slim_lock::exit_shared);
+        //}
     };
 
     template <typename F>

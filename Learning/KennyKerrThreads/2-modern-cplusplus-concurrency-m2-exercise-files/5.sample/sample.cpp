@@ -60,4 +60,5 @@ auto main() -> int
     Sleep(100);
 
     wait_all(t1, t2);
+	getchar();
 }
