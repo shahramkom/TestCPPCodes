@@ -39,12 +39,21 @@
 *.enc
 *.VC.opendb
 
+*.user
+*.ncrunchproject
+*.json
+*.assert.cache
+*.iml
+*.props
 
 # Executables
 *.exe
 *.out
 *.app
 *.pdb
+/Learning/.vs
+/Learning/.idea
+/Learning/CMakeProject/.idea
 /TestCPP/Debug
 /TestCPP/.vs/TestCPP/v15/Server/sqlite3
 /Learning/.vs/Learning/v15/Server/sqlite3
