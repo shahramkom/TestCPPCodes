@@ -48,8 +48,8 @@ void ThreadsSamples::startTests()
 	///////////////////////////////////////////////
 	mutex mt;
 	unique_lock<mutex> locker(mt);
-	cond.wait(locker); //spurious wake
-	cond.wait(locker, []() {return  !false; });
+	//cond.wait(locker); //spurious wake
+	//cond.wait(locker, []() {return  !false; });
 	///////////////////////////////////////////////
 	int x = 0;
 	std::future<int> xx = std::async(factorial, 4);
@@ -63,9 +63,10 @@ void ThreadsSamples::startTests()
 	std::future<int> xxp = std::async(std::launch::async, factorialt, std::ref(f));
 
 	p.set_exception(std::make_exception_ptr(std::runtime_error("To err is human")));
-	p.set_value(4); //if (not assign value) std::future_errc::broken_promise;
+	//TODO
+	//p.set_value(4); //if (not assign value) std::future_errc::broken_promise;
 
-	int s = xxp.get();
+	//int s = xxp.get();
 
 	std::shared_future<int> sf = f.share();
 	std::future<int> xdp = std::async(std::launch::async, factorials, sf);
@@ -121,7 +122,7 @@ void ThreadsSamples::testsThreads3()
 	ts();
 	std::future<int> fu = ts.get_future();
 	task_q.push_back(std::move(ts));
-
+	std::cout << endl;
 	cnd.notify_one();
 
 	cout << fu.get() << endl;

@@ -1,11 +1,39 @@
 <?xml version = "1.0" encoding = "utf-8"?>
 <Project DefaultTargets="HelloWorld">
-	<Target Name = "Goodbye">
-		<Message Text="good bye World!" Importance="Normal"/>
+	<PropertyGroup>
+	<name>Homer</name>
+	<FullName>$(name) Simpson</FullName>
+	<PicsPath>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\MsBuild\pics\*.jpg</PicsPath>
+	</PropertyGroup>
+
+		<ItemGroup>
+		<Pics Include = "$(PicsPath)" />
+	</ItemGroup>
+
+	<Target Name = "ListPics">
+		<Message Text="@(pics)"/>
+		<Message Text="@(pics->'%(ModifiedTime)')"/>
 	</Target>
 
-	<Target Name = "HelloWorld" >
-		<Message Text="Hello,World!" Importance="High"/>
+	<Target Name = "ReservedProps">
+		<Message Text="MsBuildProjectDirectory : $(MsBuildProjectDirectory)"/>
+		<Message Text="LOGONSERVER : $(LOGONSERVER)"/>
+	</Target>
+
+		 <PropertyGroup>
+		 <DoIt>Foo</DoIt>
+	</PropertyGroup>
+
+	<Target Name = "ABC">
+		<Message Text="ABC Target"/>
+	</Target>
+
+	<Target Name = "Goodbye">
+		<Message Text="good bye $(FullName)!" Importance="Normal"/>
+	</Target>
+
+	<Target Name = "HelloWorld" Condition = "$(DoIt) == 'Foo'" >
+		<Message Text="Hello, $(Name)!" Importance="High"/>
 	</Target>
 
 </Project>

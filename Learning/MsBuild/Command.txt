@@ -1,1 +1,21 @@
 msbuild MsBuild1.msbuild @blah.rsp
+msbuild MsBuild1.msbuild @blah.rsp /p:name = lisa
+msbuild MsBuild1.msbuild /t:ReservedProps
+msbuild MsBuild1.msbuild /t:ListPics
+
+mstest /testcontainer:c:\temp\test.dll
+
+
+________________________________________________________________________
+/v:diagnostic OR minimal OR detailed
+See MSBuild reserved properties in msdn site
+See Common MSBuild  Project Item in msdn site
+
+________________________________________________________________________
+Zip File or filder with msbuild extension
+set file version with msbuild extension
+make dir
+create application in IIS
+stop IIS service
+Copy folder roboCopy - > Source destination files option
+start IIS service

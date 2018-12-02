@@ -15,6 +15,7 @@ public:
 	static void testAny();
 	static void parallelTest();
 	static void cppPrintf();
+	static void asStringTest();
 	static void testNewIn17();
 
 };

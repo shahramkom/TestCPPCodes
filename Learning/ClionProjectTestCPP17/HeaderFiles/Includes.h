@@ -27,8 +27,10 @@
 #include <optional>
 #include <variant>
 #include <any>
+#include <complex>
 #include <fstream>
 #include <charconv> //for to_chars
 #include <array>
 #include <system_error>
+#include <map>
 #endif //TEST17_INCLUDES_H

@@ -27,6 +27,7 @@ NicolasExamples::NicolasExamples()
 
 void NicolasExamples::startTests()
 {
+	int m = 0;
 	printDirSize("G:\\__Akkasi");
 	testStringView();
 	testOptional();
@@ -245,6 +246,32 @@ void NicolasExamples::cppPrintf()
 		res2.ec != std::errc::result_out_of_range)
 		std::cout << arr << '\n';
 
+}
+
+template < typename T>
+std::string as_string(T x)
+{
+	if (constexpr(is_arithmetic_v<T>))
+	{
+		int f = 5;
+		return std::to_string(f);
+		//TODO
+		//return std::to_string(x);
+	}
+	else if constexpr (is_same_v<T, string>) {
+		return  x;
+	}
+	else
+	{
+		string(x);
+	}
+}
+void NicolasExamples::asStringTest()
+{
+	//TODO
+	//cout << as_string(42) << endl;
+	//cout << as_string(string("Hello")) << endl;
+	//cout << as_string("Hello") << endl;
 }
 
 void NicolasExamples::testNewIn17()
