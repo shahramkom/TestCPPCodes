@@ -46,6 +46,11 @@
 *.iml
 *.props
 
+*.Analyzer.Test.Assets.cache
+*.Analyzer.Test*cache
+
+*.build.props
+
 # Executables
 *.exe
 *.out
