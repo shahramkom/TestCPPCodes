@@ -67,5 +67,10 @@
 /Learning/.vs/Learning/v15/Server/sqlite3
 /Learning/Debug
 /Learning/XamarinIOS/obj
-/Learning/.vs/Learning/DesignTimeBuild/.dtbcache
+/Learning/.vs/Learning/DesignTimeBuild/.dtbcache/Learning/NuGetPackage/NPack/ShIpHandlerPackage/obj
+/Learning/CodeStandAnalysisApp/obj
+/Learning/CodeRefactoring/CodeRefactoring/obj
+/Learning/CodeRefactoring/CodeRefactoring.Vsix/obj
+/Learning/Analyzer/Analyzer/obj
+/Learning/Analyzer/Analyzer.Test/obj
 
