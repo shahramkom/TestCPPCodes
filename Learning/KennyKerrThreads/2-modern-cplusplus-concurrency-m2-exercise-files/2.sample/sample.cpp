@@ -11,8 +11,7 @@ struct windows_exception
 	{}
 };
 
-auto wait_one(HANDLE const h,
-			  DWORD const milliseconds = INFINITE) -> bool
+auto wait_one(HANDLE const h, DWORD const milliseconds = INFINITE) -> bool
 {
 	auto const result = WaitForSingleObject(h, milliseconds);
 
@@ -33,12 +32,9 @@ auto main() -> int
 {
 	auto t = null_handle
 	{
-		CreateThread(nullptr,
-					 0, 
-					 work, 
-					 nullptr,
-					 0,
-					 nullptr)
+		CreateThread(nullptr,0, 
+					 work, nullptr,
+					 0, nullptr)
 	};
 
 	if (t)

@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27703.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesignPatterns", "DesignPatterns\DesignPatterns.vcxproj", "{C6E17647-E760-4948-9CB8-BA8CE61119A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplifyCPP", "simplifyCPP\simplifyCPP.vcxproj", "{294C86FD-AE77-4EB6-A439-91412438BF59}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplifyCPP", "CppLearning\simplifyCPP\simplifyCPP.vcxproj", "{294C86FD-AE77-4EB6-A439-91412438BF59}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeeksForGeeks", "GeeksForGeeks\GeeksForGeeks.vcxproj", "{E99AF12A-2734-47B9-88B2-18B53E6F269D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeeksForGeeks", "CppLearning\GeeksForGeeks\GeeksForGeeks.vcxproj", "{E99AF12A-2734-47B9-88B2-18B53E6F269D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FluentCPP", "FluentCPP\FluentCPP.vcxproj", "{E32DD46D-1D12-4F01-9019-C29095B256ED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FluentCPP", "CppLearning\FluentCPP\FluentCPP.vcxproj", "{E32DD46D-1D12-4F01-9019-C29095B256ED}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShStaticLibrary", "ShStaticLibrary\ShStaticLib\ShStaticLib.vcxproj", "{E92F9091-3F1F-4DC4-BA30-3DD73C6E5BB9}"
 EndProject
@@ -34,21 +34,21 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShPackageUI", "vsPackage\Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShPackageVSIX", "vsPackage\ShPackage\ShPackageVSIX\ShPackageVSIX.csproj", "{593A5B39-B788-4876-B289-F7382FBD37BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShMiniFilterDriver", "ShMiniFilterDriver\ShMiniFilterDriver\ShMiniFilterDriver.vcxproj", "{ED094F57-8329-4289-9183-BA0DEEC567C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShMiniFilterDriver", "Driver Projects\ShMiniFilterDriver\ShMiniFilterDriver\ShMiniFilterDriver.vcxproj", "{ED094F57-8329-4289-9183-BA0DEEC567C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShNdisFilterDriver", "ShNdisFilterDriver\ShNdisFilterDriver\ShNdisFilterDriver.vcxproj", "{9B401232-7F92-4411-95C8-3036242E4F34}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShNdisFilterDriver", "Driver Projects\ShNdisFilterDriver\ShNdisFilterDriver\ShNdisFilterDriver.vcxproj", "{9B401232-7F92-4411-95C8-3036242E4F34}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShKernelDriver", "ShKernelDriver\ShKernelDriver\ShKernelDriver\ShKernelDriver.vcxproj", "{65DB7FBF-75C9-48A5-AD6E-4709C46805E1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShKernelDriver", "Driver Projects\ShKernelDriver\ShKernelDriver\ShKernelDriver\ShKernelDriver.vcxproj", "{65DB7FBF-75C9-48A5-AD6E-4709C46805E1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShUserDriver", "ShUserDriver\ShUserDriver\ShUserDriver.vcxproj", "{7C1DB2CB-1FC7-4733-A59F-303379D0A963}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShUserDriver", "Driver Projects\ShUserDriver\ShUserDriver\ShUserDriver.vcxproj", "{7C1DB2CB-1FC7-4733-A59F-303379D0A963}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KernelDriver", "KernelDriver", "{88BB6292-4667-4FA4-98B7-B9BA4E7F8447}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserDriver", "UserDriver", "{EF5B8C36-81F5-4B56-9423-3DE6F95A3AE1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KernelDriverApp", "KernelDriverApp\KernelDriverApp\KernelDriverApp.vcxproj", "{66BFBF4B-2392-4E11-B041-8327123C21EB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KernelDriverApp", "Driver Projects\KernelDriverApp\KernelDriverApp\KernelDriverApp.vcxproj", "{66BFBF4B-2392-4E11-B041-8327123C21EB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserDriverApp", "UserDriverApp\UserDriverApp\UserDriverApp.vcxproj", "{FD2D6C7E-0A29-4B4C-B0D0-2F51732344CD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserDriverApp", "Driver Projects\UserDriverApp\UserDriverApp\UserDriverApp.vcxproj", "{FD2D6C7E-0A29-4B4C-B0D0-2F51732344CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{B9D8F76F-A3B9-4BC5-96F1-1CCB5EFA75CC}"
 EndProject
@@ -65,12 +65,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Static", "Static", "{C2082E63-DC20-4CC1-8A68-F4ACDCB327E0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShStaticLibApp", "ShStaticLibApp\ShStaticLibApp.vcxproj", "{8B259CD2-041E-425A-B61D-BA5339E53EE7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroid", "XamarinAndroid\XamarinAndroid.csproj", "{08ED800E-D924-4376-8568-4AE69572AB4E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xamarin", "Xamarin", "{DA92D033-4593-4693-871D-9AD89D87BCCE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinIOS", "XamarinIOS\XamarinIOS.csproj", "{101E3060-8799-4119-8A7A-4F86A01C0C84}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinuxConsoleApplication1", "LinuxConsoleApplication1\LinuxConsoleApplication1.vcxproj", "{C738D684-0F45-4A31-9350-FE164016A6D3}"
 EndProject
@@ -554,74 +548,6 @@ Global
 		{8B259CD2-041E-425A-B61D-BA5339E53EE7}.Release|x64.Build.0 = Release|x64
 		{8B259CD2-041E-425A-B61D-BA5339E53EE7}.Release|x86.ActiveCfg = Release|Win32
 		{8B259CD2-041E-425A-B61D-BA5339E53EE7}.Release|x86.Build.0 = Release|Win32
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM64.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM64.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|ARM64.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhone.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|VisualGDB.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|VisualGDB.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|VisualGDB.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x64.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x64.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x86.Build.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Debug|x86.Deploy.0 = Debug|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM64.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM64.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|ARM64.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhone.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhone.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|VisualGDB.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|VisualGDB.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|VisualGDB.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x64.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x64.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x64.Deploy.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x86.ActiveCfg = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x86.Build.0 = Release|Any CPU
-		{08ED800E-D924-4376-8568-4AE69572AB4E}.Release|x86.Deploy.0 = Release|Any CPU
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|ARM.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|ARM64.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|iPhone.Build.0 = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|VisualGDB.ActiveCfg = Debug|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|x64.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Debug|x86.ActiveCfg = Debug|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|Any CPU.ActiveCfg = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|ARM.ActiveCfg = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|ARM64.ActiveCfg = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|iPhone.ActiveCfg = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|iPhone.Build.0 = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|VisualGDB.ActiveCfg = Release|iPhoneSimulator
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|x64.ActiveCfg = Release|iPhone
-		{101E3060-8799-4119-8A7A-4F86A01C0C84}.Release|x86.ActiveCfg = Release|iPhone
 		{C738D684-0F45-4A31-9350-FE164016A6D3}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{C738D684-0F45-4A31-9350-FE164016A6D3}.Debug|ARM.ActiveCfg = Debug|ARM
 		{C738D684-0F45-4A31-9350-FE164016A6D3}.Debug|ARM.Build.0 = Debug|ARM
@@ -866,8 +792,6 @@ Global
 		{025056FD-BF56-4227-94B0-3D91DC35E854} = {719417A2-B041-4492-A5EA-F51DAAD43FB5}
 		{C2082E63-DC20-4CC1-8A68-F4ACDCB327E0} = {719417A2-B041-4492-A5EA-F51DAAD43FB5}
 		{8B259CD2-041E-425A-B61D-BA5339E53EE7} = {C2082E63-DC20-4CC1-8A68-F4ACDCB327E0}
-		{08ED800E-D924-4376-8568-4AE69572AB4E} = {DA92D033-4593-4693-871D-9AD89D87BCCE}
-		{101E3060-8799-4119-8A7A-4F86A01C0C84} = {DA92D033-4593-4693-871D-9AD89D87BCCE}
 		{C738D684-0F45-4A31-9350-FE164016A6D3} = {7398FCC4-8C87-4C4A-8D96-BFDAC4E98B2D}
 		{EE01EEDA-A68F-4064-97C2-35BB54E3F91D} = {E140B4FB-93E3-4BF5-ACEB-451B2C8BB50A}
 		{6E45B84B-32FB-4562-85AE-196D313B52B7} = {E140B4FB-93E3-4BF5-ACEB-451B2C8BB50A}

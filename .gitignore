@@ -46,10 +46,13 @@
 *.iml
 *.props
 
+*.cache
 *.Analyzer.Test.Assets.cache
 *.Analyzer.Test*cache
+.csprojAssemblyReference.cache
 
 *.build.props
+
 
 # Executables
 *.exe
@@ -64,4 +67,5 @@
 /Learning/.vs/Learning/v15/Server/sqlite3
 /Learning/Debug
 /Learning/XamarinIOS/obj
-/Learning/.vs/Learning/DesignTimeBuild/.dtbcache
+/Learning/.vs/Learning/DesignTimeBuild/.dtbcache
+

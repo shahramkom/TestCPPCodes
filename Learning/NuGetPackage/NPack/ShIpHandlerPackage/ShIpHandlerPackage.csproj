@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <Version>1.0.8</Version>
+    <Company>PS</Company>
+    <Product>IpHandler</Product>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Authors>Shahram</Authors>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\NuGetPackage\NPack\ShIpHandlerPackage\ShIpHandlerPackage.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <DocumentationFile>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\NuGetPackage\NPack\ShIpHandlerPackage\ShIpHandlerPackage.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\NuGetPackage\NPack\ShIpHandlerPackage\ShIpHandlerPackage.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DocumentationFile>G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\NuGetPackage\NPack\ShIpHandlerPackage\ShIpHandlerPackage.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CreateNewNuGetPackageFromProjectAfterEachBuild" Version="1.8.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ShIpHandlerPackage">
+      <HintPath>bin\x64\Release\netstandard2.0\ShIpHandlerPackage.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

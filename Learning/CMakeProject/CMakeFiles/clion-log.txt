@@ -1,0 +1,4 @@
+Cannot generate into G:\__Learning\_NewViSion\Language\GitHubRepository\Learning\Learning\CMakeProject
+It is already used for project G:\__Learning\_New ViSion\Language\GitHubRepository\TestCPPCodes\TestCPP\CMakeProject
+
+Please either delete it manually or select another generation directory

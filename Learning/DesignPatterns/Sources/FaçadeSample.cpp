@@ -66,7 +66,7 @@ public:
 	}
 };
 
-int mainFaçade()
+int mainFacade()
 {
 	HouseFacade hf;
 
