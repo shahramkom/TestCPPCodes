@@ -29,14 +29,14 @@ Meter operator"" _meter(unsigned long long length)
 class Mostatil
 {
 public:
- 	Mostatil(Width w, Height h)
- 		: width_(w.get())
- 		, height_(h.get())
- 	{
- 	}
+	Mostatil(Width w, Height h)
+		: width_(w.get())
+		, height_(h.get())
+	{
+	}
 private:
- 	Meter width_;
- 	Meter height_;
+	Meter width_;
+	Meter height_;
 };
 
 //////////////////////////////////////////////////////////////////////////
@@ -52,7 +52,7 @@ private:
 	reference_wrapper<T> t_;
 };
 
-using NameRef = NamedTypeRef<string, struct NameRefParameter>;
+using NameRef = NamedTypeRef<std::string, struct NameRefParameter>;
 
 void printName(const NameRef name)
 {

@@ -228,7 +228,7 @@ namespace DataStructures
 		};
 	};
 
-	/* Dividing Line (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã  */
+	/* Dividing Line (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½  */
 
 	template<typename T>
 	inline ForwardList<T>::ForwardList() noexcept 

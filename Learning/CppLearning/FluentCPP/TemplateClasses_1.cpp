@@ -135,7 +135,7 @@ void AAA<char, 2>::h() {}
 int main() {
 	AAA<char, 0> a0;
 	AAA<char, 2> a2;
-	a0.f(); // OK, uses primary template’s member definition
+	a0.f(); // OK, uses primary templateï¿½s member definition
 	a2.g(); // OK, uses partial specialization's member definition
 	a2.h(); // OK, uses fully-specialized definition of
 			// the member of a partial specialization

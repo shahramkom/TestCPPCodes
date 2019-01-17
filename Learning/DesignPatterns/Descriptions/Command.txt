@@ -1,1 +1,5 @@
-Command pattern is an Object behavioral pattern that decouples sender and receiver by encapsulating a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undo-able operations. It can also be thought as an object oriented equivalent of call back method. 
+Command pattern is:
+an Object behavioral pattern that decouples sender and receiver
+by encapsulating a request as an object, thereby letting you parameterize clients with different requests
+queue or log requests, and support undo-able operations. It can also be thought as an object oriented equivalent 
+of call back method. 

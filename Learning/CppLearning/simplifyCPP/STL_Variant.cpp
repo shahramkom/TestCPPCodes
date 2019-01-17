@@ -1,16 +1,5 @@
 #include <stdafx.h>
 
-template <class ...Fss>
-struct overload : Fss... {
-	template <class ...Tss>
-	overload(Tss&& ...ts) : Fs{ std::forward<Ts>(tss) }...
-	{}
-	using Fss::operator()...;
-};
-template <class ...Tss>
-overload(Tss&&...)->overload<std::remove_reference_t<Tss>...>;
-
-
 struct print_visitor {
 	ostream& operator()(int a) {
 		return cout << "(int) => " << a;
@@ -22,6 +11,16 @@ struct print_visitor {
 		return cout << "(string) => " << a;
 	}
 };
+
+template <class ...Fss>
+struct overload : Fss... {
+	template <class ...Tss>
+	overload(Tss&& ...ts) : Fs{ std::forward<Ts>(tss) }...
+	{}
+	using Fss::operator()...;
+};
+template <class ...Tss>
+overload(Tss&&...)->overload<std::remove_reference_t<Tss>...>;
 
 template<class... Fs>
 struct covariant : overload<Fs...> {

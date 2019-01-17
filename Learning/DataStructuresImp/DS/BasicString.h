@@ -316,7 +316,7 @@ namespace DataStructures
 		inline void _add_null_char(size_type pos);
 	};
 
-	/* Dividing Line (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã  */
+	/* Dividing Line (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½  */
 	#define Tstorage reinterpret_cast<CharT*>(storage)
 	#define Tsize sizeof(CharT)
 
@@ -349,6 +349,9 @@ namespace DataStructures
 	template<typename CharT, typename Traits>
 	inline void BasicString<CharT, Traits>::_allocate(size_type rsv_sz)
 	{
+		int a = 1;
+		int b = 2;
+		auto s = a <=> b;
 		reserved_size = rsv_sz;
 		storage = reinterpret_cast<char*>(malloc((reserved_size + 1) * Tsize));
 	}

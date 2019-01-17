@@ -123,7 +123,7 @@ namespace DataStructures
 		template <typename ... Args> inline void _construct(iterator iter, Args&& ... args);
 	};
 
-	/* Dividing Line (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã (¤Ã ¡ã§¥ ¡ã;)¤Ã  */
+	/* Dividing Line (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½ (ï¿½ï¿½ ï¿½ã§¥ ï¿½ï¿½;)ï¿½ï¿½  */
 
 	template<typename T, class Allocator>
 	inline Vector<T, Allocator>::Vector() noexcept : vector_size(0), allocator(Allocator())
