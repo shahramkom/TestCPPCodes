@@ -151,21 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ArrayDS.h" />
-    <ClInclude Include="BinarySearchTreeDS.h" />
-    <ClInclude Include="BinaryTreeDS.h" />
     <ClInclude Include="DS\BasicString.h" />
     <ClInclude Include="DS\Bitset.h" />
     <ClInclude Include="DS\ForwardList.h" />
     <ClInclude Include="DS\MultiArray.h" />
     <ClInclude Include="DS\Stack.h" />
     <ClInclude Include="DS\Vector.h" />
-    <ClInclude Include="HashingDS.h" />
-    <ClInclude Include="HeapDS.h" />
-    <ClInclude Include="LinkedListDS.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="QueueDS.h" />
-    <ClInclude Include="StackDS.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataStructuresImp.cpp" />

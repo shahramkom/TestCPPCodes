@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Header Files\DS Use">
-      <UniqueIdentifier>{dda44807-4f5e-44f1-b9fc-4e3f20effb81}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Header Files\DS Imp">
       <UniqueIdentifier>{d4535fec-6a11-4eaf-8144-8d2847670aa7}</UniqueIdentifier>
     </Filter>
@@ -23,30 +20,6 @@
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ArrayDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="BinarySearchTreeDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="BinaryTreeDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="HashingDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="HeapDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="LinkedListDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="QueueDS.h">
-      <Filter>Header Files\DS Use</Filter>
-    </ClInclude>
-    <ClInclude Include="StackDS.h">
-      <Filter>Header Files\DS Use</Filter>
     </ClInclude>
     <ClInclude Include="DS\BasicString.h">
       <Filter>Header Files\DS Imp</Filter>
