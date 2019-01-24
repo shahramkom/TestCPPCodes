@@ -14,7 +14,7 @@ template<typename F, typename Tuple>
 decltype(auto) apply_from_tuple(F&& fn, Tuple&& t)
 {
     std::size_t constexpr tSize
-            = std::tuple_size<typename std::remove_reference<Tuple>::type>::value;
+        = std::tuple_size<typename std::remove_reference<Tuple>::type>::value;
     return apply_tuple_impl(std::forward<F>(fn),
                             std::forward<Tuple>(t),
                             std::make_index_sequence<tSize>());

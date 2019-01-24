@@ -320,9 +320,6 @@
     <ClCompile Include="Sources\ProxySample.cpp">
       <Filter>Source Files\Structural Patterns\Proxy\src</Filter>
     </ClCompile>
-    <ClCompile Include="Sources\FlyweightSample.cpp">
-      <Filter>Source Files\Structural Patterns\Flyweight\src</Filter>
-    </ClCompile>
     <ClCompile Include="Sources\FaçadeSample.cpp">
       <Filter>Source Files\Structural Patterns\Façade\src</Filter>
     </ClCompile>
@@ -340,6 +337,9 @@
     </ClCompile>
     <ClCompile Include="Sources\VisitorSample.cpp">
       <Filter>Source Files\Behavioral Patterns\Visitor\src</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenMPTest.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
